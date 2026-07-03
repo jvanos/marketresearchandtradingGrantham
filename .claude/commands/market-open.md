@@ -21,9 +21,10 @@ STEP 2 — Re-validate with live data:
   bash scripts/alpaca.sh positions
   bash scripts/alpaca.sh quote <each planned ticker>
 
-STEP 3 — Sanity-check each planned trade (no options, catalyst documented,
-reasonable vs. account size). This is a pre-check — the real gate runs
-inside the wrapper at STEP 4.
+STEP 3 — Sanity-check each planned trade (fits the Grantham universe —
+non-US equity, gold/metals/commodities, or TIPS, not a US-domiciled
+stock — no options, catalyst documented, reasonable vs. account size).
+This is a pre-check — the real gate runs inside the wrapper at STEP 4.
 
 STEP 4 — Execute the buys (market orders, day TIF):
   bash scripts/alpaca.sh order '{"symbol":"SYM","qty":"N","side":"buy","type":"market","time_in_force":"day"}'

@@ -16,8 +16,8 @@ Args: SYMBOL SHARES SIDE (buy or sell). If missing, ask.
 3. Print the order JSON, ask "execute? (y/n)".
 4. On confirm:
    bash scripts/alpaca.sh order '{"symbol":"SYM","qty":"N","side":"buy|sell","type":"market","time_in_force":"day"}'
-   For BUYs, the wrapper validates the order in code (no options, max 6
-   positions, max 20% of equity, max 3 trades/week, cost <= buying_power,
+   For BUYs, the wrapper validates the order in code (no options, max 30
+   positions, max 20% of equity, max 8 trades/week, cost <= buying_power,
    daily-loss circuit breaker) before it reaches Alpaca. If it exits 2,
    print the rejection reason verbatim to the user and stop — do not
    retry with a smaller size to route around the rejection.

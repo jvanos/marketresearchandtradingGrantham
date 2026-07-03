@@ -1,10 +1,11 @@
 # Trading Bot
 
-An autonomous Claude Code agent that manages a stock-only swing-trading
-account on Alpaca. There is no separate bot process — Claude itself is the
-bot, invoked fresh on a schedule. Git is its only memory between runs (see
-`memory/`); the only way it ever touches money is through
-`scripts/alpaca.sh`.
+An autonomous Claude Code agent that swing-trades a Grantham-themed
+universe (non-US equities, gold/metals/commodities, TIPS — no US stocks,
+no crypto, no options) on Alpaca. There is no separate bot process —
+Claude itself is the bot, invoked fresh on a schedule. Git is its only
+memory between runs (see `memory/`); the only way it ever touches money
+is through `scripts/alpaca.sh`.
 
 Paper trading by default. See `env.template` before flipping to live.
 
@@ -26,8 +27,8 @@ Paper trading by default. See `env.template` before flipping to live.
 This repo enforces its hard trading rules in code, not just in prompts:
 
 - **`scripts/alpaca.sh order` validates every BUY before it reaches
-  Alpaca** — no options, max 6 open positions, max 20% of equity per
-  position, max 3 filled buys/week, cost must not exceed live
+  Alpaca** — no options, max 30 open positions, max 20% of equity per
+  position, max 8 filled buys/week, cost must not exceed live
   `buying_power`, and a daily-loss circuit breaker (`MAX_DAILY_LOSS_PCT` in
   `.env`, default 5%) blocks new buys after a bad day. Sells/closes are
   never blocked. A rejected order exits with code 2 and a reason on

@@ -3,7 +3,7 @@
 # Usage: bash scripts/alpaca.sh <subcommand> [args...]
 #
 # BUY orders are gated in code (not left to the calling prompt): no options,
-# max 6 open positions, max 20% of equity per position, max 8 filled buys/week,
+# max 30 open positions, max 20% of equity per position, max 8 filled buys/week,
 # cost <= live buying_power, and a daily-loss circuit breaker. The PDT
 # day-trade-count rule is being phased out (SEC-approved Apr 2026, effective
 # Jun 2026, brokerages have until Oct 2027 to fully implement) so this wrapper
@@ -98,8 +98,8 @@ last_equity = float(account.get('last_equity', 0))
 
 held = {p['symbol'] for p in positions}
 new_count = len(held) if symbol in held else len(held) + 1
-if new_count > 6:
-    reject(f'would result in {new_count} open positions, max is 6')
+if new_count > 30:
+    reject(f'would result in {new_count} open positions, max is 30')
 
 monday = (datetime.date.today() - datetime.timedelta(days=datetime.date.today().weekday())).isoformat()
 week_buys = sum(

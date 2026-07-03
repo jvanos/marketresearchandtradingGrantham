@@ -24,12 +24,18 @@ STEP 2 — Pull live account state:
 STEP 3 — Research market context via Perplexity. Run
 bash scripts/perplexity.sh "<query>" for each:
 - "WTI and Brent oil price right now"
+- "Gold, oil, and broad commodity prices right now"
 - "S&P 500 futures premarket today"
+- "US Dollar Index (DXY) and major currency moves premarket today"
 - "VIX level today"
 - "Top stock market catalysts today $DATE"
+- "Top international markets and commodities catalysts today $DATE"
 - "Earnings reports today before market open"
+- "TIPS real yields and inflation expectations today"
+- "US and global bond market conditions and yields today"
 - "Economic calendar today CPI PPI FOMC jobs data"
 - "S&P 500 sector momentum YTD"
+- "International equities, gold, and commodities momentum YTD"
 - News on any currently-held ticker
 
 If Perplexity exits 3, fall back to native WebSearch and note the
