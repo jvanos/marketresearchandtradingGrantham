@@ -80,3 +80,58 @@ SCHP) and deployment (74.5%) sits inside the target band.
 HOLD — no new trades. No specific catalyst, existing book already
 diversified across the full universe near target deployment, all stops
 confirmed live. Patience > activity.
+
+## 2026-07-29 — Pre-market Research (run inline during market-open exec)
+
+### Account
+- Equity: $49,145.07
+- Cash: $12,521.42 (25.5%)
+- Buying power: $152,631.90 (margin, 4x)
+- Position market value: $36,623.65 (74.5% of equity — within 75-85% band, low end)
+
+### Market Context
+- Gold ~$4,020-4,030/oz, softer overnight, ahead of today's FOMC decision.
+- DXY / VIX data conflicting across sources (VIX cited ~18.6, elevated
+  vs. recent norm) — treat as directional only.
+- Oil: renewed US-Iran Gulf hostilities cited as driving crude higher
+  (some sources show Brent ~$85.79, WTI ~$83.04; others show much lower
+  $69-72 range from stale snapshots) — data quality poor, don't trust a
+  specific level, but geopolitical-risk-driven oil strength direction is
+  consistent across sources.
+- Asia: South Korea Kospi down ~6-10% on semiconductor/AI-capex fears
+  (SK Hynix miss) — negative for Asian tech-heavy equities; not a
+  Grantham-universe holding directly (no Korea-specific position).
+- FOMC decision today — major event risk; better to see the outcome
+  before adding new exposure.
+
+### Existing Positions Check (live Alpaca data)
+| Ticker | Unrealized | Stop status |
+|---|---|---|
+| DBC | +8.18% | 10% trail live, stop $27.51 (below +15% tighten trigger) |
+| GDX | -4.55% | 10% trail live, stop $70.19 |
+| GLDM | -3.90% | 10% trail live, stop $74.42 |
+| IEFA | -0.59% | 10% trail live, stop $87.92 |
+| SCHP | -0.34% | 10% trail live, stop $23.57 |
+| VWO | -2.88% | 10% trail live, stop $53.68 |
+
+All 6 stops confirmed live in Alpaca open orders. None within 3% of a
+cut (-7%) or tighten (+15%/+20%) threshold — no stop actions needed.
+
+### Trade Ideas
+None with a documented specific catalyst today. Oil/geopolitical
+volatility already reflected in DBC (held, +8.18%). Kospi selloff is
+outside the Grantham universe's direct exposure. FOMC decision today is
+a reason to wait, not to add risk pre-announcement.
+
+### Risk Factors
+- FOMC decision today — elevated event risk for gold, TIPS, USD-driven
+  moves across the whole book.
+- Macro data (DXY, VIX, oil levels) from research was contradictory
+  across sources — don't force a trade off unreliable inputs.
+- Adding a 7th position without a specific edge just adds concentration
+  risk without a documented R:R, right before a major rate decision.
+
+### Decision
+HOLD — no new trades. No specific new catalyst, FOMC decision today
+argues for patience, existing 6 positions already span the full
+universe near target deployment, all stops confirmed live.
