@@ -37,3 +37,17 @@ No positions yet. Bot launches tomorrow.
 | VWO | 93 | $59.06 | $57.74 | -0.84% | -$122.76 (-2.24%) | $53.68 (10% trail) |
 
 **Notes:** Broad pullback across the book (-$462, -0.93%), no new trades — still six positions, all unchanged since Jul 24, all GTC 10% trailing stops intact and none near triggering. DBC gave back some of its gain but remains the only winner (+5.65%); GDX and GLDM are the day's biggest laggards (-2% to -3.7% unrealized) but well clear of stops. **Data-integrity note:** no Jul 27 (Monday) EOD entry exists in this log — Alpaca's `last_equity` field (49,473.55) implies a trading day occurred between the Jul 24 and Jul 28 snapshots with no commit landing, echoing the earlier 21-day gap. Day P&L above is computed against the Jul 24 snapshot per protocol (comparison window one day wider); Alpaca-native Day P&L (vs. last_equity) would be -$357.14 (-0.72%). Recommend checking why the Jul 27 run didn't push.
+
+## Jul 30 — EOD Snapshot (Day 19, Thursday)
+**Portfolio:** $49,818.13 | **Cash:** $12,521.42 (25.1%) | **Day P&L:** +$701.72 (+1.43%) | **Phase P&L:** -$181.87 (-0.36%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| DBC | 220 | $27.07 | $29.32 | -0.34% | +$495.00 (+8.31%) | $27.51 (10% trail) |
+| GDX | 82 | $76.97 | $76.85 | +4.46% | -$9.77 (-0.16%) | $70.19 (10% trail) |
+| GLDM | 90 | $82.65 | $81.39 | +1.71% | -$113.56 (-1.53%) | $74.42 (10% trail) |
+| IEFA | 56 | $97.18 | $98.89 | +2.76% | +$95.76 (+1.76%) | $89.03 (10% trail, raised) |
+| SCHP | 240 | $26.19 | $26.13 | -0.06% | -$15.60 (-0.25%) | $23.58 (10% trail) |
+| VWO | 93 | $59.06 | $58.19 | +2.23% | -$80.91 (-1.47%) | $53.68 (10% trail) |
+
+**Notes:** Strong broad-based rally (+$701.72, +1.43%), no new trades — same six positions since Jul 24, all GTC 10% trailing stops intact and none near triggering. GDX, IEFA, and VWO led the bounce (+2-4.5% on the day); DBC remains the standout winner overall (+8.3% unrealized) and IEFA's trailing stop ratcheted up to $89.03 on the new high. Zero fills this week (Mon-Thu) — last trade was Jul 22, so the 8/week cap has ample room. **Data-integrity note:** no Jul 29 (Wednesday) EOD entry exists in this log — Alpaca's `last_equity` (49,122.26) confirms a trading day occurred between the Jul 28 and Jul 30 snapshots with no commit landing, a smaller recurrence of the same gap pattern noted on Jul 24 and Jul 28. Day P&L above is computed against the Jul 28 snapshot per protocol (comparison window one day wider); Alpaca-native Day P&L (vs. last_equity) would be +$695.87 (+1.42%) — nearly identical since the gap is only one day and Wednesday was roughly flat. This is now the third consecutive EOD run to hit a missing prior-day entry; worth checking whether Step 6's commit/push is failing intermittently (network, auth token, or branch/lock contention) rather than assuming one-off flakiness.
