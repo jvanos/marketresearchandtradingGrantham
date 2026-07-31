@@ -80,3 +80,34 @@ SCHP) and deployment (74.5%) sits inside the target band.
 HOLD — no new trades. No specific catalyst, existing book already
 diversified across the full universe near target deployment, all stops
 confirmed live. Patience > activity.
+
+## 2026-07-31 — Midday Scan Addendum
+
+### Note
+No pre-market research entry exists for 2026-07-31 (last dated entry is
+Jul 28) — gap flagged for review, did not block this scan.
+
+### Positions Check (live quotes)
+| Ticker | Unrealized | Stop status |
+|---|---|---|
+| DBC | +8.5% | 10% trail live, stop $27.51 |
+| GDX | -3.6% | 10% trail live, stop $70.19 |
+| GLDM | -3.2% | 10% trail live, stop $74.42 |
+| IEFA | +1.0% | 10% trail live, stop $87.92 |
+| SCHP | -0.6% | 10% trail live, stop $23.58 |
+| VWO | -0.6% | 10% trail live, stop $53.68 |
+
+All 6 stops confirmed live. None at -7% (no cuts). None at +15%/+20%
+(no tighten; DBC closest at +8.5%, well clear).
+
+### Intraday Research
+GDX down -3.4% intraday, largest mover. Perplexity check: driven by
+gold spot weakness + broad USD strength, sector-wide miners
+underperforming bullion (leveraged exposure), no company-specific
+negative catalyst found. Consistent with existing thesis (miners =
+leveraged gold beta) — not a thesis break. Treated as unverified/
+directional input only.
+
+### Decision
+HOLD — no cuts, no stop changes, no thesis breaks. No new trades
+(midday scan does not open new positions).
