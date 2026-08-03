@@ -80,3 +80,61 @@ SCHP) and deployment (74.5%) sits inside the target band.
 HOLD — no new trades. No specific catalyst, existing book already
 diversified across the full universe near target deployment, all stops
 confirmed live. Patience > activity.
+
+## 2026-08-03 — Pre-market Research (run inline during market-open exec; no entry Jul 29-Aug 2, market open all days but no fills per Alpaca order history — HOLD days simply weren't logged)
+
+### Account
+- Equity: $49,243.80
+- Cash: $12,521.42 (25.4%)
+- Buying power: $152,908.34 (margin, 4x)
+- Position market value: $36,722.38 (74.6% of equity — within 75-85% band, low end)
+
+### Market Context
+- Weak-USD backdrop persists — cited as tailwind for international
+  value equities (Europe fiscal support, Japan reform/AI momentum) and
+  for EM (lower local rates, earnings growth, valuations).
+- Japan/Korea AI-semiconductor momentum strong but Korea seeing
+  profit-taking after last week's rally (Samsung/SK hynix) — chase risk.
+- Gold firmer on macro-uncertainty/hedge bid, range-bound into Friday's
+  US payrolls. Oil gapping down near $80 on reduced Iran-related
+  geopolitical premium — soft near-term impulse for broad commodities.
+- TIPS: sticky-inflation theme intact (Eurozone core CPI surprised
+  upside, JPM flags persistent inflation as 2026 theme) — supportive of
+  existing SCHP hold, not a fresh-entry catalyst.
+- No specific single-ticker catalyst identified for a new position.
+
+### Existing Positions Check (live Alpaca data)
+| Ticker | Unrealized | Stop status |
+|---|---|---|
+| DBC | +5.8% | 10% trail live, stop $27.51 |
+| GDX | -4.0% | 10% trail live, stop $70.19 |
+| GLDM | -3.5% | 10% trail live, stop $74.42 |
+| IEFA | +1.1% | 10% trail live, stop $89.03 |
+| SCHP | -1.1% | 10% trail live, stop $23.58 |
+| VWO | -0.6% | 10% trail live, stop $53.68 |
+
+All 6 stops confirmed live in Alpaca open orders, all >3% clear of
+current price. None within range of a cut (-7%) or tighten (+15%/+20%)
+threshold — no stop actions needed. No fills since Jul 22 confirmed via
+full order history — the log gap above is a documentation miss, not a
+missed trade.
+
+### Trade Ideas
+None with a documented specific catalyst today. Existing 6 positions
+already span the full Grantham universe (EM via VWO, developed intl via
+IEFA, gold via GLDM, miners via GDX, commodities via DBC, TIPS via
+SCHP); deployment (74.6%) sits at the low end of the target band but a
+7th position needs its own catalyst, not just spare cash.
+
+### Risk Factors
+- Korea/chip-momentum names look extended (profit-taking already
+  underway) — not a fresh entry despite the AI narrative.
+- Oil weakness argues against adding broad-commodity exposure (DBC)
+  right now even though it's the current winner.
+- Adding a position purely to close the gap to 75% deployment would add
+  concentration risk without a documented R:R.
+
+### Decision
+HOLD — no new trades. No specific catalyst, existing book already
+diversified across the full universe near target deployment, all stops
+confirmed live. Patience > activity.
