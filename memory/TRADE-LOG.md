@@ -37,3 +37,17 @@ No positions yet. Bot launches tomorrow.
 | VWO | 93 | $59.06 | $57.74 | -0.84% | -$122.76 (-2.24%) | $53.68 (10% trail) |
 
 **Notes:** Broad pullback across the book (-$462, -0.93%), no new trades — still six positions, all unchanged since Jul 24, all GTC 10% trailing stops intact and none near triggering. DBC gave back some of its gain but remains the only winner (+5.65%); GDX and GLDM are the day's biggest laggards (-2% to -3.7% unrealized) but well clear of stops. **Data-integrity note:** no Jul 27 (Monday) EOD entry exists in this log — Alpaca's `last_equity` field (49,473.55) implies a trading day occurred between the Jul 24 and Jul 28 snapshots with no commit landing, echoing the earlier 21-day gap. Day P&L above is computed against the Jul 24 snapshot per protocol (comparison window one day wider); Alpaca-native Day P&L (vs. last_equity) would be -$357.14 (-0.72%). Recommend checking why the Jul 27 run didn't push.
+
+## Aug 03 — EOD Snapshot (Day 21, Monday)
+**Portfolio:** $49,554.62 | **Cash:** $12,521.42 (25.3%) | **Day P&L:** +$438.21 (+0.89%) | **Phase P&L:** -$445.38 (-0.89%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| DBC | 220 | $27.07 | $28.90 | -1.87% | +$402.60 (+6.76%) | $27.51 (10% trail) |
+| GDX | 82 | $76.97 | $75.99 | +2.55% | -$80.29 (-1.27%) | $70.19 (10% trail) |
+| GLDM | 90 | $82.65 | $80.14 | 0.00% | -$226.06 (-3.04%) | $74.42 (10% trail) |
+| IEFA | 56 | $97.18 | $98.67 | +0.42% | +$83.16 (+1.53%) | $89.03 (10% trail) |
+| SCHP | 240 | $26.19 | $25.89 | -0.77% | -$72.00 (-1.15%) | $23.58 (10% trail) |
+| VWO | 93 | $59.06 | $59.06 | +0.53% | $0.00 (0.00%) | $53.68 (10% trail) |
+
+**Notes:** Portfolio bounced +$438 (+0.89%) on a broad rally — GDX led (+2.55%), IEFA and VWO also up; still six positions, unchanged since Jul 24, all GTC 10% trailing stops intact and none near triggering. No new trades; DBC remains the standout winner (+6.76% unrealized), GLDM the biggest laggard (-3.04%) but well clear of its stop. **Data-integrity gap (recurring):** no entries exist in this log for Jul 29, 30, or 31 (Wed–Fri, 3 trading days) — the same missed-commit pattern flagged in the Jul 24 and Jul 28 notes. Positions and stop levels are unchanged from Jul 28 per live Alpaca data, so no trade history was lost, but the day-by-day P&L trail for that window is unrecoverable. Day P&L above is computed against the Jul 28 snapshot per protocol (comparison window 6 days wide instead of 1); Phase P&L is unaffected since it's anchored to the fixed Day 0 baseline. This is the third occurrence of this failure mode — worth a human looking at why Step 6 commits aren't landing on schedule.
