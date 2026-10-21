@@ -74,3 +74,8 @@ No positions yet. Bot launches tomorrow.
 | XLE | 1 | $68.21 | $68.20 | +0.35% | -0.01 (-0.01%) | none |
 | XLI | 1 | $167.99 | $168.27 | +0.88% | +0.28 (+0.17%) | none |
 **Notes:** Snapshot taken ~3:55pm ET pre-close. **ACCOUNT ANOMALY:** Alpaca account PA3Q1U9Y8 was created 2026-10-21 with $80,000 start equity — not the $50k account tracked in this log (last entry Jul 28; prior DBC/GDX/GLDM/IEFA/SCHP/VWO book is gone). It holds 28 positions incl. US stocks (AAPL, AMZN, BRK.B, GOOGL), US ETFs (VOO, VTI, SCHD, QQQM), crypto-linked (BTC, HODL, WULF) — outside Grantham universe — and has no stop orders. No trades by this bot today. Day P&L uses Alpaca last_equity; Phase P&L vs $50k Day 0 baseline is not meaningful. Human review needed: confirm intended account/keys, universe, and whether to liquidate non-compliant holdings.
+
+### Oct 21 — EOD Snapshot FINAL (post-close, Wednesday)
+**Portfolio:** $79,986.48 | **Cash:** $38,772.20 (48.5%) | **Day P&L:** -$13.52 (-0.02%, vs Alpaca last_equity $80,000) | **Phase P&L:** n/a (baseline not comparable)
+
+**Notes:** Supersedes the ~3:55pm snapshot above. 30 open positions, no open orders, zero stops. Same anomaly stands: account PA3Q1U9Y8 (created Oct 21, $80k start, options level 3, crypto active) holds US stocks/ETFs and crypto-linked names (AAPL, AMZN, BRK.B, GOOGL, VOO, VTI, BTC, HODL, WULF) outside the Grantham universe. No trades by this bot today. Largest movers: WULF +6.7% day, WQTM +2.3%, BRK.B -$23.66 unrealized. Human review needed: confirm intended account/keys and whether to liquidate non-compliant holdings.
