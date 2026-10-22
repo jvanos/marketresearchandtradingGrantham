@@ -80,3 +80,27 @@ SCHP) and deployment (74.5%) sits inside the target band.
 HOLD — no new trades. No specific catalyst, existing book already
 diversified across the full universe near target deployment, all stops
 confirmed live. Patience > activity.
+
+## 2026-10-22 — Pre-market Research
+
+### Account
+- Equity: $79,578.04 (last_equity $79,977.64) | Cash: $38,772.19 (48.7%) | Buying power: $269,345.14
+- **ANOMALY persists:** acct PA3Q1U9Y8 (created 2026-10-21, $80k start), 28 positions incl. US stocks (AAPL, AMZN, GOOGL, BRK.B), US ETFs, crypto-linked (BTC, HODL, WULF); options level 3 enabled; NO stop orders (orders list empty). Not the $50k Grantham book. Deployed 51% (below 75-85%). Human review needed.
+
+### Market Context (Perplexity, unverified)
+- Gold $4,122 (-0.44%); WTI $98.12 (+1.0%); Brent $110.17 (+1.2%); nat gas $2.77
+- S&P Dec futures 7,725 (-0.96%); VIX fut 18.48
+- DXY ~101.70 (-0.08%); TIPS real yields: no reliable quote
+- Catalysts: Houthi/Saudi energy risk, stalled US-Iran talks, EIA crude draw -3.06M; Fed meeting next week; Asia mixed/weaker; Teck Highland Valley copper strike notice; Russia-Ukraine talk reports = oil downside risk
+
+### Trade Ideas
+None actioned. Account non-compliant with mandate; no new buys until human confirms account/universe.
+1. Idea only: GLDM add on dip — Fed next week, falling yields; entry ~$80, stop $72, target $88
+2. Idea only: PDBC — oil/inflation premium; 10% trail, target +15%
+
+### Risk Factors
+- Futures -1%, risk-off open; oil spike -> inflation/hawkish Fed risk
+- No stops on any position, 4x margin, options-enabled account
+
+### Decision
+HOLD — no trades, no stops/liquidation placed pending human review of account anomaly.
