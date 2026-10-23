@@ -80,3 +80,34 @@ SCHP) and deployment (74.5%) sits inside the target band.
 HOLD — no new trades. No specific catalyst, existing book already
 diversified across the full universe near target deployment, all stops
 confirmed live. Patience > activity.
+
+## 2026-10-23 — Pre-market Research
+
+### Account (PA3Q1U9Y8 — NOT the $50k Grantham book)
+- Equity: $79,388.75 (last_equity $79,465.90)
+- Cash: $38,772.19 (48.8%) | Buying power: $268,815.12 (4x margin)
+- 28 positions, 0 open orders (no stops). Still holds US stocks (AAPL, AMZN, BRK.B, GOOGL), US ETFs (VOO, VTI, SCHD, QQQM, SMH, SOXX...), crypto-linked (BTC, HODL, WULF). Options level 3 enabled.
+- Same anomaly flagged Oct 21 EOD; unresolved. Deployment 51% vs 75-85% target.
+
+### Market Context
+- Gold ~$4,018-4,045 (COMEX Dec $4,028, -0.8%); silver $54.16. Metals falling despite geopolitics: higher oil lifts inflation expectations, cuts easing hopes.
+- WTI $100.29 (+0.8%), Brent $113.97 (+0.7%); highest since May. Middle East escalation (Saudi attacks, Iran/Houthi) = risk premium.
+- Copper -1.9% to $14,078/t (LME stocks up, tariff uncertainty). Iron ore ~$90/t.
+- S&P 500 close 7,663 (-1.21%), tech/AI-led selloff; VIX 19.03 (+14%). No futures quote found.
+- DXY 101.69 (+0.08%). Yen stronger on haven bid; France-Germany spread wider.
+- 10y UST ~5.12%, 5y ~4.79%; 5y TIPS real 2.37% (auction Oct 22), 10y real ~2.77%; 5y BE ~2.4%, 10y BE 2.37%.
+- Today: US flash PMIs 9:45 ET (svc f'cast 58.0, mfg 55.5), UMich final 10:00 (1y infl exp prior 4.7%), UK retail sales, EZ flash PMIs, Baker Hughes 1pm.
+- Source: Perplexity (unverified; no fallback needed).
+
+### Trade Ideas (none authorized — see Decision)
+1. VTIP/SCHP (TIPS): real yields ~2.4-2.8% historically high; oil-driven inflation fear. Entry on dip, stop 7-10% trail, target +10%.
+2. PDBC/DBC (commodities): oil $100+ momentum; catalyst Mideast escalation. Risk: reversal on de-escalation; stop 10% trail.
+3. Intl equities (VEA/VWO) — weak: oil/rates headwind, dollar firm. Skip.
+
+### Risk Factors
+- Account state non-compliant with strategy; no stops on 28 positions; SIVR -6.5%, SOXX -6.4%, WULF -12.2% (near/over -7% cut line).
+- Geopolitical oil spike can reverse sharply; 10y at 5.1% pressures equities and TIPS prices.
+- Research data indicative only.
+
+### Decision
+HOLD — no trades. Account mismatch (wrong account, out-of-universe holdings, no stops) needs human review before any bot action. Not liquidating autonomously.
