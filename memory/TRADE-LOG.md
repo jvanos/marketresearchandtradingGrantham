@@ -74,3 +74,40 @@ No positions yet. Bot launches tomorrow.
 | XLE | 1 | $68.21 | $68.20 | +0.35% | -0.01 (-0.01%) | none |
 | XLI | 1 | $167.99 | $168.27 | +0.88% | +0.28 (+0.17%) | none |
 **Notes:** Snapshot taken ~3:55pm ET pre-close. **ACCOUNT ANOMALY:** Alpaca account PA3Q1U9Y8 was created 2026-10-21 with $80,000 start equity — not the $50k account tracked in this log (last entry Jul 28; prior DBC/GDX/GLDM/IEFA/SCHP/VWO book is gone). It holds 28 positions incl. US stocks (AAPL, AMZN, BRK.B, GOOGL), US ETFs (VOO, VTI, SCHD, QQQM), crypto-linked (BTC, HODL, WULF) — outside Grantham universe — and has no stop orders. No trades by this bot today. Day P&L uses Alpaca last_equity; Phase P&L vs $50k Day 0 baseline is not meaningful. Human review needed: confirm intended account/keys, universe, and whether to liquidate non-compliant holdings.
+
+## Oct 23 — EOD Snapshot (Day N/A, Friday)
+**Portfolio:** $79,231.63 | **Cash:** $38,772.19 (48.9%) | **Day P&L:** -$234.27 (-0.29%, vs Alpaca last_equity $79,465.90) | **Phase P&L:** -$768.37 (-0.96%, vs $80,000 account start; not comparable to $50k Day 0)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| AAPL | 6.0089 | $344.27 | $347.59 | -0.18% | +19.95 (+0.96%) | none |
+| AMZN | 6 | $262.62 | $248.42 | -0.78% | -85.20 (-5.41%) | none |
+| BRK.B | 13 | $541.97 | $542.19 | -0.87% | +2.86 (+0.04%) | none |
+| BTC | 35 | $37.36 | $35.89 | -0.22% | -51.45 (-3.94%) | none |
+| COWZ | 1 | $70.81 | $71.08 | -0.97% | +0.27 (+0.38%) | none |
+| EWG | 5 | $41.72 | $40.94 | -0.99% | -3.90 (-1.87%) | none |
+| FLJP | 11 | $40.73 | $40.10 | -0.45% | -6.93 (-1.55%) | none |
+| GLDM | 120 | $81.69 | $79.13 | -0.66% | -307.20 (-3.13%) | none |
+| GOOGL | 4.0133 | $334.31 | $320.70 | -1.09% | -54.63 (-4.07%) | none |
+| HODL | 30 | $23.89 | $22.96 | -0.17% | -27.90 (-3.89%) | none |
+| QQQM | 1.5 | $298.95 | $290.23 | +0.03% | -13.08 (-2.92%) | none |
+| REZ | 1 | $89.76 | $91.55 | -0.21% | +1.79 (+1.99%) | none |
+| SCHD | 97.1816 | $34.62 | $35.26 | -0.41% | +61.74 (+1.84%) | none |
+| SCHG | 3 | $35.88 | $34.85 | -0.26% | -3.09 (-2.87%) | none |
+| SGOV | 10 | $100.62 | $100.66 | +0.04% | +0.40 (+0.04%) | none |
+| SIVR | 32 | $54.85 | $51.22 | -1.29% | -116.16 (-6.62%) | none |
+| SMH | 1 | $557.03 | $527.25 | +0.74% | -29.78 (-5.35%) | none |
+| SOXX | 1 | $511.15 | $478.49 | +0.59% | -32.66 (-6.39%) | none |
+| SPMO | 5.008 | $143.30 | $138.66 | -0.11% | -23.24 (-3.24%) | none |
+| VGK | 12.2667 | $87.55 | $86.25 | -0.63% | -15.95 (-1.49%) | none |
+| VGT | 4 | $122.33 | $119.44 | +0.71% | -11.56 (-2.36%) | none |
+| VNQI | 1 | $42.69 | $42.71 | +0.00% | +0.02 (+0.05%) | none |
+| VOO | 2.1264 | $710.69 | $698.80 | -0.50% | -25.28 (-1.67%) | none |
+| VTI | 3 | $379.19 | $373.06 | -0.49% | -18.40 (-1.62%) | none |
+| VTV | 13 | $224.72 | $225.05 | -0.66% | +4.28 (+0.15%) | none |
+| WQTM | 10 | $28.58 | $27.28 | -0.26% | -13.00 (-4.55%) | none |
+| WULF | 10 | $12.96 | $11.28 | -0.33% | -16.77 (-12.94%) | none |
+| XLB | 5 | $51.27 | $51.31 | -0.73% | +0.20 (+0.08%) | none |
+| XLE | 1 | $68.21 | $69.38 | +2.68% | +1.17 (+1.71%) | none |
+| XLI | 1 | $167.99 | $164.62 | -1.27% | -3.37 (-2.01%) | none |
+**Notes:** No trades by this bot; no open orders, no stops on any of the 30 positions. Account is still the unexpected PA3Q1U9Y8 ($80k start, created Oct 21) holding non-Grantham assets (US stocks AAPL/AMZN/BRK.B/GOOGL, US ETFs, crypto-linked BTC/HODL/WULF); options level 3 enabled. No Oct 22 EOD entry exists, so Day P&L uses Alpaca last_equity. Biggest drags: GLDM -$307, SIVR -$116, AMZN -$86. Human review still needed: confirm intended account/keys and whether to liquidate non-compliant holdings.
