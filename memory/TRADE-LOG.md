@@ -78,3 +78,40 @@ No positions yet. Bot launches tomorrow.
 ## 2026-10-26 — Midday Actions
 - No exits: none at/below -7% (worst SIVR -6.25%, AMZN -5.02%, HODL -5.11%, BTC -5.10%, WULF -4.81%). No winners >= +15% — no tightening. No thesis breaks.
 - Still NO open stop orders on any of 30 positions (orders empty); standing flag from Oct 21/24. Not placed this routine (no tighten step eligible).
+
+## 2026-10-26 — EOD Snapshot (Day N/A, Monday)
+**Portfolio:** $79,377.74 | **Cash:** $38,772.19 (48.8%) | **Day P&L:** +$148.93 (+0.19%) | **Phase P&L:** -$622.26 (-0.78%, vs $80,000 Oct 21 start)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| AAPL | 6.0089 | $344.27 | $344.05 | -1.06% | -1.32 (-0.06%) | none |
+| AMZN | 6 | $262.62 | $249.01 | +0.41% | -81.66 (-5.18%) | none |
+| BRK.B | 13 | $541.97 | $548.40 | +1.15% | +83.59 (+1.19%) | none |
+| BTC | 35 | $37.36 | $35.24 | -1.81% | -74.20 (-5.67%) | none |
+| COWZ | 1 | $70.81 | $71.25 | +0.24% | +0.44 (+0.62%) | none |
+| EWG | 5 | $41.72 | $41.24 | +0.73% | -2.40 (-1.15%) | none |
+| FLJP | 11 | $40.73 | $40.18 | +0.20% | -6.05 (-1.35%) | none |
+| GLDM | 120 | $81.69 | $79.36 | +0.29% | -279.60 (-2.85%) | none |
+| GOOGL | 4.0133 | $334.31 | $317.10 | -0.97% | -69.08 (-5.15%) | none |
+| HODL | 30 | $23.89 | $22.59 | -1.61% | -39.00 (-5.44%) | none |
+| QQQM | 1.5 | $298.95 | $293.16 | +1.07% | -8.68 (-1.94%) | none |
+| REZ | 1 | $89.76 | $91.90 | +0.38% | +2.14 (+2.38%) | none |
+| SCHD | 97.1816 | $34.62 | $35.28 | +0.03% | +64.14 (+1.91%) | none |
+| SCHG | 3 | $35.88 | $35.10 | +0.80% | -2.34 (-2.17%) | none |
+| SGOV | 10 | $100.62 | $100.67 | +0.01% | +0.50 (+0.05%) | none |
+| SIVR | 32 | $54.85 | $51.15 | -0.14% | -118.40 (-6.75%) | none |
+| SMH | 1 | $557.03 | $541.35 | +2.68% | -15.68 (-2.81%) | none |
+| SOXX | 1 | $511.15 | $492.57 | +3.00% | -18.58 (-3.64%) | none |
+| SPMO | 5.008 | $143.30 | $140.55 | +1.36% | -13.77 (-1.92%) | none |
+| VGK | 12.2667 | $87.55 | $86.55 | +0.35% | -12.27 (-1.14%) | none |
+| VGT | 4 | $122.33 | $120.96 | +1.50% | -5.48 (-1.12%) | none |
+| VNQI | 1 | $42.69 | $42.90 | +0.45% | +0.21 (+0.49%) | none |
+| VOO | 2.1264 | $710.69 | $703.21 | +0.66% | -15.91 (-1.05%) | none |
+| VTI | 3 | $379.19 | $375.59 | +0.69% | -10.80 (-0.95%) | none |
+| VTV | 13 | $224.72 | $226.24 | +0.53% | +19.75 (+0.68%) | none |
+| WQTM | 10 | $28.58 | $27.51 | +0.84% | -10.70 (-3.74%) | none |
+| WULF | 10 | $12.96 | $11.96 | +5.69% | -9.96 (-7.68%) | none |
+| XLB | 5 | $51.27 | $51.38 | +0.14% | +0.55 (+0.21%) | none |
+| XLE | 1 | $68.21 | $69.66 | +0.48% | +1.45 (+2.13%) | none |
+| XLI | 1 | $167.99 | $166.96 | +1.42% | -1.03 (-0.61%) | none |
+**Notes:** Small up day (+$149), no trades today. 30 positions, still NO stop orders on any (orders empty) — standing flag from Oct 21. Worst: SIVR -6.75%, AMZN -5.18%, HODL -5.44%, BTC -5.68%, GOOGL -5.15%, WULF -7.68% (breached -7% cut line after midday scan; +5.7% on day but entry $12.96 — cut candidate tomorrow). Day P&L vs Alpaca last_equity ($79,228.81); phase vs $80k account start. Universe still non-compliant (US stocks, crypto-linked) — human review pending.
