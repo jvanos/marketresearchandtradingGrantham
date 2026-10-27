@@ -121,3 +121,48 @@ confirmed live. Patience > activity.
 
 ### Decision
 HOLD on new entries — do not add risk into FOMC/earnings week on thin R:R. The actionable priority is defensive: stops on the book and cutting the three positions past the -7% line (execution routines). Patience > activity.
+
+## 2026-10-27 — Pre-market Research (Tuesday)
+
+### Account
+- Equity: $79,392.17
+- Cash: $38,772.19 (48.8%)
+- Buying power: $268,824.72 (4x margin); RegT $118,164.36
+- Position mkt value: $40,619.98 (51.2% deployed — below 75-85% band)
+- 30 positions. **Change vs Oct 26 log: 30 trailing-stop orders now exist**
+  (placed Oct 26 ~23:00 UTC). BUT they are **5% trail + time_in_force=DAY,
+  expiring today 2026-10-27 20:00 UTC** — NOT the 10% GTC trails strategy
+  requires. They vanish at today's close and must be re-placed as 10% GTC
+  (execution routines). Resolves the long-standing "zero stops" flag only
+  for today's session.
+
+### Market Context
+- S&P 500 futures: flat / slightly higher (ES ~+0.0-0.1%, NDX ~-0.2 to -0.4%); cautious ahead of FOMC + mega-cap earnings.
+- US Dollar Index (DXY): ~102.0-102.1, UP, 3rd-4th day of recovery — headwind for intl equities & gold. EUR/USD ~1.1150 (4th down day), USD/JPY ~157.8.
+- VIX: ~18.4 (calm; Oct 26 close 18.39, -5.5%).
+- WTI / Brent: WTI ~$101-102, Brent ~$111-115; easing on Saudi-Iran de-escalation talks, but near 6-mo highs, 2-way geopolitical risk.
+- Gold / silver / commodities: gold ~$4,000-4,017 (worst week in 4mo last wk, -2.8% MTD; support $3,974/$3,956, resist $4,031/$4,049; StanChart range $3,970-4,290). Silver ~$52.8-53.9 near 11-mo low, underperforming. Copper ~$6.56.
+- Bond yields: US 10yr ~4.97-4.99% (elevated real yields = headwind for gold/silver/TIPS), curve bull-flattening, 2s10s ~22-27bp, 10yr breakeven ~2.35%.
+- Today's catalysts: Durable goods 8:30, Case-Shiller 9:00, Consumer Confidence/New Home Sales/Richmond Fed 10:00. **No CPI/PPI/jobs today.** FOMC 2-day meeting STARTS today; statement Wed 10/28 2pm ET (hold expected). Mega-cap earnings: GOOGL/MSFT/META Wed, AMZN Thu (AMZN held). ECB Thu, BOJ Fri (both hold expected).
+- Regional momentum: Europe firm (France dodged Moody's downgrade; German Ifo 91.6 from 90.4). Japan BOJ hold, Dec-tightening guidance risk. Korea Kospi +4.5% on chips. Brazil EM shock continues (Lula). Dollar strength caps all non-US buckets near-term.
+- Sector/asset momentum: Gold miners weak short-term (GDX -5.8%, below 50d) but Goldman initiated Buy on AngloGold (AU)/Endeavour (EDV) citing central-bank buying, $5,400/oz 2027 gold target. Oil-linked equities relative strength. Precious-metals ETF holdings at highest since March.
+
+### Positions / Risk Status
+- Grantham-compliant holdings: GLDM (gold, $9.5k, -2.9%), SIVR (silver, -7.45%), VGK/EWG (Europe), FLJP (Japan), VNQI (intl RE). Rest of book = non-compliant US stocks/ETFs + crypto-linked (inherited Oct-21 mix).
+- **SIVR -7.45% — past the -7% manual cut line.** Other laggards: HODL -5.8%, WULF -5.5%, BTC -5.4%, AMZN -4.9%, GOOGL -4.8%, WQTM -3.8%, GLDM -2.9%.
+- Winners thin: REZ +2.4%, SCHD +2.0%, XLE +1.8%, BRK.B +0.9%, VTV +0.8%. None >=+15% (no tighten trigger).
+
+### Trade Ideas
+1. **Risk-mgmt first (not a new entry):** cut SIVR (-7.45%, past -7% rule); re-establish proper 10% GTC trailing stops across the book before today's DAY stops expire at the close. Highest-value action — belongs to market-open/midday execution.
+2. VGK (Europe) — relative strength + France/Ifo tailwind. BUT firming dollar + pre-ECB are headwinds. Watch-only; add on post-Fed/ECB confirmation. Entry ~$86, stop ~$79 (8%), target ~$94, R:R ~1.1:1 (thin).
+3. Gold-miner theme (GDX / AngloGold AU) — Goldman Buy, central-bank demand, $5,400 2027 target. BUT gold downside-biased near-term vs elevated real yields + strong dollar; GDX below 50d. Conditional on gold holding $4,000 post-Fed. Not today.
+
+### Risk Factors
+- Super-catalyst week: FOMC (Wed), mega-cap earnings (AMZN held, Thu), ECB/BOJ. Adding risk pre-Fed is low-edge.
+- Dollar firming (3-4 days) + 10yr ~5% / elevated real yields = direct headwind for the entire Grantham universe (gold, silver, intl equities, TIPS).
+- Silver at 11-mo low, SIVR already past -7%; gold a break <$4,000 opens downside.
+- Today's 5% DAY stops expire at the close — book is unprotected overnight into the Fed decision unless re-placed as GTC (execution routine).
+- Universe governance still unresolved: book is majority non-Grantham (US stocks, US index ETFs, crypto-linked). Scheduled prompt frames account as "free-form, no clear thesis, never options" (~$55k), but CLAUDE.md says Grantham-only and live equity is ~$79k — mandate mismatch pending human review (flagged Oct 21/24/26).
+
+### Decision
+**HOLD on new entries.** No specific edge into FOMC/earnings week; dollar + real-yield backdrop is hostile to the Grantham buckets. Actionable priority is defensive and belongs to execution routines: cut SIVR (past -7%), and re-place the expiring DAY stops as proper 10% GTC trails. Patience > activity.
