@@ -115,3 +115,7 @@ No positions yet. Bot launches tomorrow.
 | XLE | 1 | $68.21 | $69.66 | +0.48% | +1.45 (+2.13%) | none |
 | XLI | 1 | $167.99 | $166.96 | +1.42% | -1.03 (-0.61%) | none |
 **Notes:** Small up day (+$149), no trades today. 30 positions, still NO stop orders on any (orders empty) — standing flag from Oct 21. Worst: SIVR -6.75%, AMZN -5.18%, HODL -5.44%, BTC -5.68%, GOOGL -5.15%, WULF -7.68% (breached -7% cut line after midday scan; +5.7% on day but entry $12.96 — cut candidate tomorrow). Day P&L vs Alpaca last_equity ($79,228.81); phase vs $80k account start. Universe still non-compliant (US stocks, crypto-linked) — human review pending.
+
+## 2026-10-28 — Midday Actions
+- EXIT SIVR 32 sh: market sell submitted 17:16 UTC at ~$50.96 (entry $54.85), ~-7.1% (~-$124), cut at -7% per rule. Position gone from Alpaca; fill price approximate.
+- No winners >= +15% — no tightening. No thesis breaks. Remaining 27 positions all have trailing stops.
