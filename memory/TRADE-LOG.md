@@ -152,3 +152,9 @@ No positions yet. Bot launches tomorrow.
 | XLE | 1 | $68.21 | $68.42 | +0.31% | +0.21 (+0.31%) | $66.17 |
 | XLI | 1 | $167.99 | $168.88 | +0.57% | +0.89 (+0.53%) | $160.82 |
 **Notes:** Flat day (-$34). SIVR cut at -7% midday (~-$124). WULF no longer in positions (exit not logged; unverified). GOOGL -6.4% on day (-10.3% unrealized), stop $313.35 sits above price at $299.94 — check for stop trigger/fill. 25 of 27 positions now carry trailing stops (3-5%, tighter than the 10% rule); AMZN and BTC have none. Phase P&L vs $80k account start. Universe still non-compliant (US stocks, crypto-linked) — human review pending.
+
+## 2026-10-29 — Market Open Trades
+- No new buys (research decision: HOLD, PCE/ECB/AMZN-earnings day).
+- GOOGL GTC trail triggered at open on gap: ~4 sh sold ~$290 (~-13%); 0.0133 sh fractional remnant left.
+- STOPS ADDED: AMZN 7 sh, BTC 35 sh — 7% trailing, GTC (were unprotected; AMZN reports after close tonight). AMZN ref ~$244.91, BTC ~$35.40.
+- Open Positions table: GOOGL ~closed (0.0133 sh remnant); AMZN/BTC now have trail stops.
