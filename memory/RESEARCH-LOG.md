@@ -208,3 +208,44 @@ HOLD on new entries — do not add risk into FOMC/earnings week on thin R:R. The
 
 ### Decision
 **HOLD on new entries.** No specific edge into a FOMC + mega-cap-earnings day; dollar + ~5% real-yield backdrop is hostile to every Grantham bucket. Actionable priority is defensive and belongs to execution routines: cut SIVR (at -7%), standardize stops to 10% GTC, and review/cancel the stray pending AMZN buy. Patience > activity.
+
+## 2026-10-29 — Pre-market Research (Thursday — PCE + ECB + AMZN earnings)
+
+### Account
+- Equity: $79,485.08 | Cash: $40,358.87 (50.8%) | Buying power: $270,988.87 (4x margin); RegT $119,843.95
+- Position mkt value: $39,126.21 (**49.2% deployed — below 75-85% band**)
+- 27 positions. 25 carry GTC trailing stops (exp 2027-01-26) but trails are **non-standard 3-5%** (e.g. GLDM 3%, BRK.B 3%, SOXX 3.8%), NOT the strategy's 10% GTC. **AMZN and BTC still have NO stop orders.**
+- **GOOGL overnight gap:** price ~$289.68 vs GTC trail stop_price $313.35 (Alphabet revenue miss after Oct 28 close). Trailing stops don't fire pre-market — this triggers at the open and sells ~$290 at market, realizing ~-13% (~-$179). Expected per "overnight gaps blow through stops"; nothing to do pre-market. **AMZN reports after close TODAY and is unprotected (no stop).**
+- SIVR was cut Oct 28 (~-7%); WULF no longer held.
+
+### Market Context
+- S&P 500 futures ~7,748 (**-0.46%**), Nasdaq-100 futures **-1.3%** on Alphabet miss / renewed AI-capex jitters; Dow +0.22%. Tech-led pullback, mixed tape.
+- VIX ~17.2 (+2%, calm).
+- US Dollar Index (DXY) ~102.2, rangebound / slightly softer after Fed hold (off a 2-wk high ~102.49). EUR/USD ~1.114, USD/JPY firmer. Still a mild headwind for intl/gold.
+- WTI ~$101.5, Brent ~$114.5 (-1%) — easing on Iran diplomacy, but US reportedly telling Gulf states to prep for post-midterm Iran strikes = 2-way geopolitical risk. European nat-gas elevated (~€100/MWh).
+- Gold ~$4,040-4,065 (-0.3 to -0.6%); silver ~$53.4-53.8 (-1%, near 11-mo low, MTD -24%, YTD +9%); copper ~$6.64 (2-wk high). Both metals soft on strong dollar + ~5% real yields.
+- Bonds: US 10yr **~5.02% (+2bp)**, 2yr ~4.70% (-4bp), curve steeper. Bund 3.37%, French OAT 4.91%, JGB 10yr 2.83%. Elevated real yields = direct headwind for gold/silver/TIPS/intl.
+- **Catalysts:** Fed HELD 3.75-4.00% yesterday (10-2, two hawkish dissents, economy upgraded to "strong", no clear Dec signal). **TODAY 8:30 ET: Sept PCE (headline f/c 3.6% YoY / 0.5% MoM, core 3.1% / 0.3%) + jobless claims (196k f/c).** **ECB 29 Oct: hold at 2.50% deposit expected (~95%), hawkish bias, Dec hike ~80% priced.** BOJ Fri (hold expected). **AMZN earnings after close today (HELD).**
+- Regional momentum: Korea/semis strongest — **SK Hynix ADR +7.4%** on record Q3. Japan pre-BOJ. Europe firm but pre-ECB. AI-sentiment contagion risk from Alphabet miss.
+- Sector/asset momentum: Gold miners the cleanest upgrade bucket but mixed — **RING strongest weekly momentum (+2.78%)**, Goldman Buy on AngloGold/Endeavour, PBOC 23-mo buying streak; offset by CIBC Barrick downgrade and gold technically fragile vs ~5% yields. Silver weakest.
+
+### Positions / Risk Status
+- Grantham-compliant sleeve: GLDM (gold, -2.35%), VGK/EWG (Europe), FLJP (Japan, -0.74%), VNQI (intl RE). Rest = inherited Oct-21 non-compliant US stocks/ETFs (AAPL, AMZN, BRK.B, VOO, VTI, VTV, SCHD, SCHG, QQQM, SMH, SOXX, SPMO, VGT, XLB, XLE, XLI, COWZ, WQTM, SGOV) + crypto-linked (BTC, HODL).
+- Laggards: **GOOGL -13.4%** (stops at open), BTC -5.27% (no stop), HODL -5.33%, AMZN -3.62% (no stop, earnings tonight), GLDM -2.35%.
+- Winners thin: SCHD +2.28%, VTV +1.58%, XLE +1.26%, XLB +1.19%, BRK.B +0.93%. None >=+15% (no tighten trigger).
+
+### Trade Ideas
+1. **Risk-mgmt first (execution routines, not new entries):** (a) let GOOGL GTC trail execute at open (~-13%, overnight gap — expected); (b) **place stops on AMZN and BTC** (AMZN reports tonight, unprotected); (c) standardize book trails toward 10% GTC (current 3-5%). Highest-value actions.
+2. **Gold miners RING / GDX** — catalyst: Goldman Buy (AngloGold/Endeavour), structural central-bank demand (PBOC 23-mo streak, China Oct reserve data ~Nov 7). Entry RING ~$72.4, stop ~$66 (-9%), target ~$80, R:R ~1.1:1. BUT gold soft, 10yr ~5%, dollar firm, CIBC cut Barrick, technically fragile. **Conditional** on a not-hot PCE and gold holding $4,000. Not today.
+3. **Korea/Japan equity (FLJP held; EWY)** — catalyst: SK Hynix record Q3, semi/AI demand. BUT BOJ Friday event risk + chasing a +7% ADR move + dollar headwind = poor entry. Watch-only.
+
+### Risk Factors
+- **8:30 ET PCE is the swing:** a hot print → yields higher → direct hit to gold/silver/intl/TIPS. Then ECB (hawkish-tilt risk) and BOJ Friday.
+- **AMZN earnings after close tonight** — held and currently unprotected (no stop).
+- AI-sentiment contagion from Alphabet miss could spill into global semis/EM (Korea, Japan).
+- Strong-ish dollar (~102.2) + 10yr ~5% / elevated real yields = hostile backdrop for the entire Grantham universe.
+- Silver at 11-mo low; gold break <$4,000 opens downside.
+- Governance mismatch unresolved (flagged Oct 21/24/26/27/28): book is majority non-Grantham (US stocks/ETFs + crypto-linked); scheduled prompt frames account as "free-form ~$55k, never options" while CLAUDE.md says Grantham-only and live equity ~$79.5k. Human review pending. Also: `scripts/memory.sh` (referenced by this routine for archive/read) does not exist — logs read directly as fallback.
+
+### Decision
+**HOLD on new entries.** No specific edge into a PCE + ECB + AMZN-earnings day; dollar + ~5% real-yield backdrop is hostile to every Grantham bucket, and tech/AI jitters add tape risk. Actionable priority is defensive and belongs to execution routines: let GOOGL stop out, place AMZN/BTC stops before tonight's AMZN print, and standardize trails to 10% GTC. Patience > activity.
