@@ -162,3 +162,34 @@ No positions yet. Bot launches tomorrow.
 ## 2026-10-29 — Midday Actions
 - EXIT GOOGL 0.0133 sh remnant: close at ~$284.51 (entry $334.31), -14.9%, cut at -7% per rule. Fractional leftover of morning stop-out.
 - No winners >= +15% — no tightening. AMZN -6.0% (stop 7% trail, earnings tonight) — watch, not yet at cut line. No thesis breaks. WULF absent from positions (exit never logged). All remaining 25 positions carry trailing stops.
+
+## 2026-10-29 — EOD Snapshot (Day N/A, Thursday)
+**Portfolio:** $79,255.14 | **Cash:** $41,772.44 (52.7%) | **Day P&L:** -$403.77 (-0.51%) | **Phase P&L:** -$744.86 (-0.93%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| AAPL | 6.0089 | $344.27 | $351.00 | +2.08% | +40.44 (+1.96%) | $333.86 |
+| AMZN | 7 | $261.56 | $227.60 | -10.61% | -237.72 (-12.98%) | $231.70 |
+| BRK.B | 13 | $541.97 | $545.00 | +0.86% | +39.39 (+0.56%) | $532.31 |
+| BTC | 35 | $37.36 | $35.49 | -1.50% | -65.45 (-5.00%) | $33.67 |
+| COWZ | 1 | $70.81 | $71.08 | +0.81% | +0.27 (+0.38%) | $68.23 |
+| EWG | 5 | $41.72 | $42.41 | +1.46% | +3.45 (+1.65%) | $40.72 |
+| FLJP | 11 | $40.73 | $40.38 | -0.12% | -3.85 (-0.86%) | $38.93 |
+| GLDM | 120 | $81.69 | $79.66 | -1.17% | -243.60 (-2.48%) | $78.20 |
+| HODL | 30 | $23.89 | $22.70 | -1.52% | -35.70 (-4.98%) | $22.20 |
+| QQQM | 1.5 | $298.95 | $290.76 | -2.66% | -12.29 (-2.74%) | $287.01 |
+| SCHD | 97.1816 | $34.62 | $35.74 | +1.85% | +108.91 (+3.24%) | $34.20 |
+| SCHG | 3 | $35.88 | $34.90 | -2.02% | -2.94 (-2.73%) | $34.09 |
+| SGOV | 10 | $100.62 | $100.70 | +0.01% | +0.85 (+0.08%) | $96.68 |
+| SMH | 1 | $557.03 | $545.98 | -3.82% | -11.05 (-1.98%) | $548.16 |
+| SOXX | 1 | $511.15 | $495.49 | -5.07% | -15.66 (-3.06%) | $504.02 |
+| SPMO | 5.008 | $143.30 | $140.30 | -3.17% | -15.02 (-2.09%) | $138.60 |
+| VGK | 12.2667 | $87.55 | $88.50 | +1.36% | +11.65 (+1.08%) | $84.27 |
+| VGT | 4 | $122.33 | $121.00 | -2.10% | -5.32 (-1.09%) | $118.28 |
+| VNQI | 1 | $42.69 | $42.66 | +0.73% | -0.03 (-0.07%) | $40.85 |
+| VOO | 2.1264 | $710.69 | $703.72 | -0.87% | -14.82 (-0.98%) | $677.43 |
+| VTI | 3 | $379.19 | $377.53 | -0.43% | -4.97 (-0.44%) | $364.48 |
+| VTV | 13 | $224.72 | $228.88 | +0.85% | +54.07 (+1.85%) | $218.62 |
+| XLB | 5 | $51.27 | $52.53 | +1.29% | +6.30 (+2.46%) | $50.43 |
+| XLE | 1 | $68.21 | $69.10 | +0.95% | +0.89 (+1.31%) | $66.45 |
+| XLI | 1 | $167.99 | $170.81 | +1.38% | +2.82 (+1.68%) | $161.86 |
+**Notes:** Down day (-$404). No new buys. GOOGL stopped out at open on gap (~-13%) and remnant closed midday; AMZN/BTC trail stops added (7%). AMZN -13.1% unrealized, -10.7% on day ahead of tonight's earnings (stop ~$231.70 sits above price $227.31 — check fill/cut tomorrow). All 25 positions carry trailing stops. Phase P&L vs \$80k account start. Universe still non-compliant (US stocks, crypto-linked) — human review pending.
