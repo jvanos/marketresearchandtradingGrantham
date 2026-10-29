@@ -158,3 +158,7 @@ No positions yet. Bot launches tomorrow.
 - GOOGL GTC trail triggered at open on gap: ~4 sh sold ~$290 (~-13%); 0.0133 sh fractional remnant left.
 - STOPS ADDED: AMZN 7 sh, BTC 35 sh — 7% trailing, GTC (were unprotected; AMZN reports after close tonight). AMZN ref ~$244.91, BTC ~$35.40.
 - Open Positions table: GOOGL ~closed (0.0133 sh remnant); AMZN/BTC now have trail stops.
+
+## 2026-10-29 — Midday Actions
+- EXIT GOOGL 0.0133 sh remnant: close at ~$284.51 (entry $334.31), -14.9%, cut at -7% per rule. Fractional leftover of morning stop-out.
+- No winners >= +15% — no tightening. AMZN -6.0% (stop 7% trail, earnings tonight) — watch, not yet at cut line. No thesis breaks. WULF absent from positions (exit never logged). All remaining 25 positions carry trailing stops.
