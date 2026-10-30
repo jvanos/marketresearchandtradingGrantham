@@ -249,3 +249,41 @@ HOLD on new entries — do not add risk into FOMC/earnings week on thin R:R. The
 
 ### Decision
 **HOLD on new entries.** No specific edge into a PCE + ECB + AMZN-earnings day; dollar + ~5% real-yield backdrop is hostile to every Grantham bucket, and tech/AI jitters add tape risk. Actionable priority is defensive and belongs to execution routines: let GOOGL stop out, place AMZN/BTC stops before tonight's AMZN print, and standardize trails to 10% GTC. Patience > activity.
+
+## 2026-10-30 — Pre-market Research (Friday — Big-Tech earnings rout, BOJ, ECI)
+
+### Account
+- Equity: $79,047.19 | Cash: $41,772.40 (52.8%) | Buying power: $271,459.02 (4x margin); RegT $120,819.59
+- Position mkt value: $37,274.79 (**47.2% deployed — below 75-85% band**)
+- Overnight: equity -$313.95 (-0.40%) vs last_equity $79,361.14.
+- 25 positions. **All 25 now carry GTC trailing stops** (exp 2027-01-26) — the longstanding stop-coverage flag is cleared. BUT trails remain **non-standard**: mostly 3-5% (GLDM 3%, BRK.B 3%, AAPL 5%), AMZN/BTC 7% — NOT the strategy's 10% GTC. Standardization still owed to execution routines.
+
+### Market Context
+- **Risk-off, tech-led rout.** S&P 500 futures ~7,676 (**-1.0%**), Nasdaq-100 futures **-2.1 to -2.3%** on AMZN + Intel earnings and AI-capex/AI-disruption fears. VIX ~18.5 (**+7%**). Dow futures ~flat (rotation, not broad panic).
+- **US Dollar Index (DXY): ~101.7-101.8, DOWN ~0.2%** — 3rd down day, heading for 3rd weekly loss. **Reversal of the week's strong-dollar headwind — now a mild tailwind for the Grantham buckets.** EUR/USD ~1.117 (ECB held 2.50%), USD/JPY ~157.8.
+- **Bonds rallying (risk-off / haven bid):** US 10yr **~4.94% (-8bp)**, 30yr ~5.26%, 2s10s positive. Bund 3.35%, OAT 4.91%, gilt 5.29%. **JGB 10yr ~3.06% — highest since 1996.** Lower US yields = marginal relief for gold/silver/TIPS, but structurally still ~5%.
+- **Oil UP:** WTI ~$104 (+1.7%), Brent ~$112-117 (+1.4%) on **renewed US-Iran escalation reports** (post-midterm strike prep) + Hormuz/supply risk; offset by de-escalation-talk headlines = 2-way. Nat gas ~$2.90. **Energy is the dominant momentum sector (+53.7% YTD, +10.8% 1mo).**
+- **Gold ~$4,000-4,015 (-0.4%)**, pressed below $4,000 intraday on firm PCE + possible Dec Fed hike repricing, cushioned by softer dollar + lower yields. Silver ~$50-53 (near 11-mo low, **-14% MTD**). Copper ~$6.55.
+- **Catalysts today:** No US CPI/PPI/FOMC (Fed held 3.75-4.00% Oct 29, 10-2, two hawkish dissents, no Dec guidance). **8:30 ET ECI Q3** (wage-inflation read — yield mover). **BOJ held 1.25% (8-1 vote)**, upside-inflation signal, accelerating ETF sales (~¥860B/yr from Jan); Ueda presser watched for Dec-hike timing. Germany/euro-area Q3 GDP + Oct CPI. Q3 US GDP 3.4%; core PCE 2.5%.
+- **BMO earnings:** XOM, CVX, BP, AbbVie, AstraZeneca, Sanofi, General Dynamics, Regeneron. Energy/healthcare/defense are the sector swing factors — BP/AZN/SNY are non-US-relevant reads.
+- **Premarket movers:** Intel -23%, Fortinet -25%, ServiceNow -18%, GOOGL -10%, AMZN -7.3% (held); gainers Rivian +8.8%, CareDx, BrightSpring.
+
+### Positions / Risk Status
+- **Three holdings past the -7% manual cut line (all non-Grantham):** AMZN **-12.66%** (7% trail stop $231.70 vs price ~$228 — likely executes at open on continued earnings gap), BTC **-8.25%** (crypto-linked), HODL **-7.91%** (crypto-linked). Next: SOXX -5.85%, SMH -4.17%.
+- Winners thin: SCHD +3.96%, XLB +2.77%, VTV +2.13%, XLE +2.07%, BRK.B +1.48%. **None >=+15% — no trail-tighten trigger.**
+- Grantham-compliant sleeve: GLDM (gold, -3.78%), VGK/EWG (Europe), FLJP (Japan, -0.86%), VNQI (intl RE). Rest = inherited Oct-21 non-compliant US stocks/ETFs + crypto-linked (BTC, HODL).
+
+### Trade Ideas
+1. **Risk-mgmt first (execution routines, not new entries):** (a) let AMZN GTC trail execute at open (-12.7%, earnings gap — expected); (b) **cut BTC (-8.3%) and HODL (-7.9%)** — both past -7% and off-mandate; (c) continue standardizing book trails toward 10% GTC (current 3-5%). Highest-value actions.
+2. **Non-US energy / broad commodities (PDBC / DBC, or non-US oil majors BP/Shell/TTE ADRs)** — catalyst: oil at 6-mo highs on US-Iran risk, energy the #1 momentum sector (+53.7% YTD), dollar weakening. Grantham-eligible (commodities / non-US equity). Entry on a pullback; stop -8%, target +15%, R:R ~1.9:1. **BUT** oil is extended + 2-way Iran headlines (de-escalation could gap it down), and adding into a VIX-spiking risk-off tape is poor timing. **Conditional / watch — not today.**
+3. **Gold miners RING / GDX** — catalyst: Goldman Buy (AngloGold/Endeavour), $5,400 2027 gold target, central-bank demand; today's softer dollar + lower yields help at the margin. **BUT** gold sub-$4,000, Dec-hike repricing, ~92% of GDX below 50d = fragile. **Conditional** on gold reclaiming $4,000 and risk-off abating. Not today.
+
+### Risk Factors
+- **Tech-led risk-off rout** (Intel/Fortinet/ServiceNow/GOOGL/AMZN) with VIX +7% — adding any risk into a down ~1-2% tape is low-edge; AI-capex contagion can spill into global semis/EM (Korea, Japan).
+- **BOJ + Ueda presser** (Dec-hike timing) and **8:30 ECI** are intraday yield/FX movers; Friday into the weekend adds gap risk.
+- Oil two-way (US-Iran escalation vs de-escalation talks); energy strength is also an inflation input feeding the "higher-for-longer / Dec hike" narrative that pressures gold.
+- Gold sub-$4,000 and silver at 11-mo low (-14% MTD) keep the metals sleeve soft despite today's dollar/yield relief.
+- Governance mismatch unresolved (flagged Oct 21/24/26/27/28/29): book is majority non-Grantham (US stocks/ETFs + crypto-linked); scheduled prompt frames the account as "free-form ~$55k, never options" while CLAUDE.md says Grantham-only and live equity is ~$79k. Human review pending. Also: `scripts/memory.sh` (referenced by this routine for archive/read) does not exist in the repo — logs read directly as fallback.
+
+### Decision
+**HOLD on new entries.** No specific edge into a tech-led risk-off rout + BOJ/ECI day; VIX spiking and a -1 to -2% tape make new risk low-edge even where the macro backdrop for the Grantham buckets improved (weaker dollar, lower yields are one day old amid broad de-risking). Actionable priority is defensive and belongs to execution routines: let AMZN stop out, cut BTC/HODL (past -7%), and standardize trails toward 10% GTC. Patience > activity.
