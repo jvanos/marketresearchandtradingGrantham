@@ -193,3 +193,26 @@ No positions yet. Bot launches tomorrow.
 | XLE | 1 | $68.21 | $69.10 | +0.95% | +0.89 (+1.31%) | $66.45 |
 | XLI | 1 | $167.99 | $170.81 | +1.38% | +2.82 (+1.68%) | $161.86 |
 **Notes:** Down day (-$404). No new buys. GOOGL stopped out at open on gap (~-13%) and remnant closed midday; AMZN/BTC trail stops added (7%). AMZN -13.1% unrealized, -10.7% on day ahead of tonight's earnings (stop ~$231.70 sits above price $227.31 — check fill/cut tomorrow). All 25 positions carry trailing stops. Phase P&L vs \$80k account start. Universe still non-compliant (US stocks, crypto-linked) — human review pending.
+
+## 2026-10-30 — EOD Snapshot (Day N/A, Friday)
+**Portfolio:** $78,802.24 | **Cash:** $57,145.97 (72.5%) | **Day P&L:** -$452.90 (-0.57%) | **Phase P&L:** -$1,197.76 (-1.50%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| AAPL | 6.0089 | $344.27 | $344.50 | -1.26% | +1.38 (+0.07%) | $333.86 |
+| BRK.B | 13 | $541.97 | $543.25 | +0.24% | +16.64 (+0.24%) | $533.96 |
+| COWZ | 1 | $70.81 | $71.37 | +0.41% | +0.56 (+0.79%) | $68.87 |
+| EWG | 5 | $41.72 | $41.88 | -1.25% | +0.80 (+0.38%) | $40.72 |
+| FLJP | 11 | $40.73 | $39.59 | -1.96% | -12.54 (-2.80%) | $38.93 |
+| QQQM | 0.5 | $298.95 | $284.71 | -3.33% | -7.12 (-4.76%) | none (fractional remnant) |
+| SCHD | 97.1816 | $34.62 | $35.80 | +0.53% | +114.63 (+3.41%) | $34.65 |
+| SGOV | 10 | $100.62 | $100.74 | +0.03% | +1.20 (+0.12%) | $96.71 |
+| SPMO | 0.008 | $143.30 | $136.38 | -4.23% | -0.06 (-4.83%) | none (fractional remnant) |
+| VGK | 12.2667 | $87.55 | $87.54 | -0.68% | -0.12 (-0.01%) | $84.27 |
+| VNQI | 1 | $42.69 | $42.70 | +0.09% | +0.01 (+0.02%) | $40.85 |
+| VOO | 2.1264 | $710.69 | $695.54 | -1.67% | -32.21 (-2.13%) | $677.43 |
+| VTI | 3 | $379.19 | $372.31 | -1.57% | -20.65 (-1.82%) | $364.48 |
+| VTV | 13 | $224.72 | $228.02 | -0.38% | +42.89 (+1.47%) | $219.75 |
+| XLB | 5 | $51.27 | $52.74 | +0.40% | +7.35 (+2.87%) | $50.67 |
+| XLE | 1 | $68.21 | $69.99 | +1.86% | +1.78 (+2.61%) | $67.34 |
+| XLI | 1 | $167.99 | $167.40 | -1.61% | -0.59 (-0.35%) | $161.86 |
+**Notes:** Down day (-$453), sharp tech/growth selloff. No buys; 10 sells, all stop-outs except BTC: SMH, SOXX, QQQM (1 of 1.5 sh), GLDM 120, AMZN 7 (@232.02, post-earnings), HODL 30, SPMO (5 sh), VGT 4 via trailing stops 13:30-13:34 ET; SCHG 3 stop filled 18:17 UTC; BTC 35 market-sold @34.06 (~-8.8%). Cash up to 72.5% (below the 75-85% deployed target is violated the other way: only ~27.5% deployed). Two fractional remnants (QQQM 0.5, SPMO 0.008) carry no stops; clean up Monday. 17 positions remain, all else carry trailing stops. Phase P&L vs $80k account start. Universe still non-compliant with CLAUDE.md (US stocks/ETFs, crypto-linked held) — human review pending.
