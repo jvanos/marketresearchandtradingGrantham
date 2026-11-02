@@ -287,3 +287,42 @@ HOLD on new entries — do not add risk into FOMC/earnings week on thin R:R. The
 
 ### Decision
 **HOLD on new entries.** No specific edge into a tech-led risk-off rout + BOJ/ECI day; VIX spiking and a -1 to -2% tape make new risk low-edge even where the macro backdrop for the Grantham buckets improved (weaker dollar, lower yields are one day old amid broad de-risking). Actionable priority is defensive and belongs to execution routines: let AMZN stop out, cut BTC/HODL (past -7%), and standardize trails toward 10% GTC. Patience > activity.
+
+## 2026-11-02 — Pre-market Research (Monday — relief bounce into midterms, oil reverses down)
+
+### Account
+- Equity: $78,790.75 | Cash: $57,145.64 (72.5%) | Buying power: $57,145.64 (1x, no margin extended)
+- Position mkt value: $21,645.11 (**27.5% deployed — well below 75-85% band; underdeployment is now the main drag**)
+- Overnight: equity +$3.85 (+0.00%) vs last_equity $78,786.90 — flat.
+- 17 positions, 15 GTC trailing stops. **2 fractional remnants carry NO stops: QQQM 0.5sh (-4.0%), SPMO 0.008sh (-4.0%)** — cleanup owed (flagged since Fri). Trails still **non-standard 3-5%** (BRK.B 3%, AAPL/XLI 5%), NOT the 10% GTC rule.
+
+### Market Context
+- **Relief bounce after Wall St's worst week in months.** S&P 500 futures ~7,648-7,655 (**+0.4 to +0.5%**), Nasdaq-100 **+0.8%**, Dow **+0.3%** as AI/megacap tech steadies. Fragile — sits ahead of binary midterm vote. VIX **18.83 (-0.59)**, cooling.
+- **Oil REVERSES LOWER:** WTI **~$100-101 (-3%)**, Brent **~$108-110 (-3 to -4%)** on US-Iran de-escalation hopes (Washington may extend diplomacy post-midterms). Unwinds Friday's $104/$117 spike. OPEC+ held output through Dec. Strait of Hormuz keeps 2-way upside supply risk. **Energy momentum cooling — the week's #1 sector catalyst fading.**
+- **Gold ~$3,896-3,905, +~0.5-1% today** but still **below $4,000** (broke $4k Fri, -3.7% recent). Silver weak (~11-mo low). Copper ~$6.48 recovering. **GDX +4.1% on the day.**
+- **DXY ~101.75 (-0.2 to -0.3%)**, euro strongest major (EUR/USD ~1.12); risk-on softness. Mild tailwind for Grantham buckets, but only ~3 days old amid broad de-risk unwind.
+- **Yields:** US 2yr **4.59% (+1bp)**, 10yr **~4.91% (-1bp)**, 30yr **~5.29% (-2bp)** — modest bear-steepening; Dec Fed hike still priced possible. Bund 3.32%, OAT 4.97% (Fitch cut France outlook to negative), JGB ~3.08%. Structurally ~5% = headwind for TIPS/gold duration.
+- **Catalysts:** **Midterm elections Tue Nov 3** (the week's dominant catalyst — fiscal/regulatory/trade, and US-Iran policy). **AAPL + PLTR earnings tonight (after close).** JOLTS Tue, **jobs report Fri Nov 6**. No CPI/PPI/FOMC this week (CPI Nov 10, PPI Nov 13, FOMC Dec 8-9).
+- **BMO earnings:** mostly US (Marriott, Entergy, IDEXX, PSEG). **Ryanair (RYAAY) beat** — non-US read, modestly green.
+- **International:** China Oct factory activity back in **contraction** (weighs EM/industrial demand). Nikkei -0.33% (63,082), Topix -0.88%; Euro Stoxx 50 -1.23% Fri close, FTSE +0.07%. **BoE expected +25bp to 4.00% this week** → sterling/UK-rate catalyst.
+
+### Positions / Risk Status
+- **No holding past the -7% cut line** (worst QQQM remnant -4.0%). Book stabilized after Friday's stop-out purge.
+- **No winner >= +15%** — no trail-tighten (best: XLB +3.3%, SCHD +3.3%, VTV +1.5%).
+- Grantham-compliant sleeve: **FLJP** (Japan, -2.8%), **VGK/EWG** (Europe, ~flat), **VNQI** (intl RE, flat). Rest = inherited non-Grantham US stocks/ETFs (AAPL, VOO, VTI, VTV, SCHD, BRK.B, XLB/E/I, COWZ, SGOV, QQQM, SPMO). No crypto left (BTC/HODL exited Fri).
+
+### Trade Ideas
+1. **Risk-mgmt / housekeeping first (execution routines, not new entries):** (a) **close QQQM 0.5sh & SPMO 0.008sh remnants** — no stops, small losers, owed since Fri; (b) continue standardizing book trails toward 10% GTC (currently 3-5%). Highest-value actions today.
+2. **Gold miners GDX (or RING)** — Grantham-eligible (metals). Catalyst: GDX +4.1% today, gold rebounding toward $3,900 off the $4k break; analysts tactically cautious / medium-term bullish, seniors cheap (~6.8x fwd CF vs 8.8x 5yr avg); softer dollar + lower long yields help; miner earnings this week (Wheaton Nov 5). Entry on a gold reclaim of **$4,000** that holds; stop -8%, target +15% (R:R ~1.9:1). **BUT** gold still sub-$4k, Dec-hike repricing, GDX -13% past month (high beta). **Conditional / watch — not into a binary midterm.**
+3. **Europe add (VGK/IEUR, or EWU UK)** — Grantham-eligible (non-US equity). Catalyst: DXY softening (euro strongest major), Europe +10.4% YTD, BoE +25bp this week supports UK rate-sensitives/sterling. Entry on dollar-weakness confirmation holding post-midterms; stop -8%, target +12%. **BUT** 1-mo momentum negative (-2.49%), Euro Stoxx -1.23% Fri, France outlook cut. Already hold VGK/EWG. **Conditional / watch.**
+
+### Risk Factors
+- **Midterm elections Tue Nov 3 = binary event risk** — today's relief bounce can reverse; adding risk the day before is low-edge.
+- **AAPL earnings tonight** (hold 6sh AAPL) + PLTR; **jobs report Fri** — two-sided week.
+- **Oil 2-way** (de-escalation vs Hormuz re-escalation); the energy/commodity momentum that led is now fading as oil reverses down.
+- **Gold sub-$4k, silver 11-mo low, Dec-hike repricing** keep metals/miners soft and high-beta; yields structurally ~5% pressure TIPS/gold.
+- **International momentum negative past month** across Europe/Japan/EM (Japan worst, -7.5%); **China factory contraction** = EM/industrial headwind. No clean positive-momentum Grantham setup today.
+- **Governance mismatch unresolved** (flagged since Oct 21): book is majority non-Grantham (US stocks/ETFs); scheduled prompt frames account as "free-form ~$55k, never options" while CLAUDE.md says Grantham-only and live equity is ~$79k. Underdeployed (27.5% vs 75-85%), trails non-standard (3-5% vs 10% GTC), 2 unstopped remnants. **Human review pending.** Also: `scripts/memory.sh` (referenced by this routine for archive/read) still does not exist — logs read directly as fallback.
+
+### Decision
+**HOLD on new entries.** No clean edge: a fragile relief bounce into a binary midterm vote (Tue), AAPL earnings tonight and Fri jobs make new risk low-edge, and international momentum is negative across all Grantham buckets (Japan worst, EM least-bad, oil reversing down, gold sub-$4k). The one-day dollar-weakness tailwind isn't enough on its own. Actionable priority is defensive and belongs to execution routines: close QQQM/SPMO remnants and standardize trails toward 10% GTC. Watch GDX (needs gold to reclaim $4,000 and hold) and Europe (needs dollar weakness to hold post-midterms) as the two best Grantham-eligible setups for later in the week. Patience > activity.
