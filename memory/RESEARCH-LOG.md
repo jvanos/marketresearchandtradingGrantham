@@ -326,3 +326,44 @@ HOLD on new entries — do not add risk into FOMC/earnings week on thin R:R. The
 
 ### Decision
 **HOLD on new entries.** No clean edge: a fragile relief bounce into a binary midterm vote (Tue), AAPL earnings tonight and Fri jobs make new risk low-edge, and international momentum is negative across all Grantham buckets (Japan worst, EM least-bad, oil reversing down, gold sub-$4k). The one-day dollar-weakness tailwind isn't enough on its own. Actionable priority is defensive and belongs to execution routines: close QQQM/SPMO remnants and standardize trails toward 10% GTC. Watch GDX (needs gold to reclaim $4,000 and hold) and Europe (needs dollar weakness to hold post-midterms) as the two best Grantham-eligible setups for later in the week. Patience > activity.
+
+## 2026-11-03 — Pre-market Research (Tuesday — MIDTERM ELECTION DAY, oil bounces on Iran strike)
+
+### Account
+- Equity: $78,812.60 | Cash: $57,212.97 (72.6%) | Buying power: $57,212.97 (1x, no margin)
+- Position mkt value: $21,599.63 (**27.4% deployed — still well below 75-85% band; underdeployment remains the main drag**)
+- Overnight: equity **-$127.72 (-0.16%)** vs last_equity $78,940.32. Phase P&L vs $80k start **~-$1,187 (-1.48%)**.
+- 16 positions, 14 GTC trailing stops. **AAPL (6sh): current ~$325.90 sits BELOW its $333.86 stop** — premarket margin-concern gap; **likely executes at open** (non-Grantham). **2 fractional remnants still carry NO stops: QQQM 0.5sh (-6.1%), SPMO 0.008sh (-7.2%)** — cleanup owed (flagged since Fri Oct 30). Trails still **non-standard 3-5%** (BRK.B 3%, AAPL/XLI 5%, VOO 4.7%, VTV/VNQI 4.5%, VGK 4.4%), NOT the 10% GTC rule.
+
+### Market Context
+- **MIDTERM ELECTIONS TODAY = dominant binary catalyst** (fiscal/regulatory/trade, dollar, yields, US-Iran policy). S&P 500 futures **~7,568 (-0.08%, ~flat)**; Dow futures **-0.5%** (defense bid), Nasdaq-100 futures **+0.45%** — split tape; **AAPL margin concerns weigh tech**. **VIX 21.60 (+2.1%)** — elevated, risk-off tilt.
+- **US Dollar Index (DXY): ~101.8, flat-to-slightly-higher** after touching 1-mo low ~101.4 Monday. EUR/USD ~1.12 (euro firmer on lower oil), USD/JPY ~157.8, GBP/USD ~1.342. **Offshore yuan weakened ~0.34% to 6.67 (largest drop since May)** — EM/metals headwind. DXY soft = mild Grantham tailwind, but stalling.
+- **Oil UP after Monday's -7% plunge:** WTI **~$96-98 (+1.6%)**, Brent **~$105-106 (+1.7%)** on **reported US strike on Iran's Qeshm Island** reviving Hormuz supply risk; Qatar-mediated de-escalation talks keep it **2-way**. Nat gas ~$2.86.
+- **Gold ~$3,920-3,957, rebounded ~1.8% off a 1-year low** (supported by softer oil, lower dollar). Silver **~$49-51 (-19% MTD, near lows)**. Copper **~$6.45 (-1.4%)** on tech-equity weakness + weak yuan, despite China smelter-maintenance supply tightening.
+- **Yields firm/structurally high:** US 10yr **4.917% (+2bp)**, 2yr 4.593%, 30yr 5.287%. **10yr TIPS real ~2.59%, breakeven ~2.33%.** UK 5.19%, Germany 3.29%, JGB 2.78%. ~5% long end = **headwind for TIPS/gold duration**.
+- **Catalysts today:** Midterms; **Treasury quarterly refunding** (borrowing mix → yields); US-Iran/Hormuz headlines; **10:00 ET JOLTS (Sep) + factory/durable-goods orders**. **AMD earnings after close** (AI sentiment). No CPI/PPI/FOMC (CPI Nov 10, PPI Nov 13, **jobs Fri Nov 6**, FOMC Dec 8-9).
+- **BMO earnings:** SHOP, ETN, ADM, DD, HSIC — mostly US; limited non-US read.
+- **International / momentum (ETF flows):** **Japan is the clearest flow leader** (FLJP +$95.9M Oct 28; EWJ inflows). **Copper & silver miners positive** (COPX +$192M, SIL +$130M Oct 30). Broad developed ex-US + selective EM (VWO/AVEM ~+$227M) positive. **Europe lacks momentum confirmation** (VGK outflows), **Brazil (EWZ) weak** (-$632M), **broad commodities consolidating**. Asia weaker overnight (Korea tech pressure, yuan weak).
+
+### Positions / Risk Status
+- **AAPL -5.3% unrealized, stop $333.86 > price $325.90 → likely stops out at open** (non-Grantham, margin-concern gap). No other holding past the -7% cut line (QQQM remnant -6.1%, SPMO remnant -7.2% are tiny fractional leftovers).
+- **No winner >= +15%** — no trail-tighten (best: XLB +4.2%, SCHD +3.5%, BRK.B +2.1%, VTV +1.5%).
+- Grantham-compliant sleeve: **FLJP** (Japan, -1.6%), **VGK/EWG** (Europe, +0.4-0.6%), **VNQI** (intl RE, +0.7%). Rest = inherited non-Grantham US stocks/ETFs (AAPL, VOO, VTI, VTV, SCHD, BRK.B, XLB/I, COWZ, SGOV, QQQM, SPMO).
+
+### Trade Ideas
+1. **Risk-mgmt / housekeeping first (execution routines, not new entries):** (a) **close QQQM 0.5sh & SPMO 0.008sh remnants** — unstopped small losers, owed since Oct 30; (b) **let AAPL GTC trail execute at open** if triggered (-5.3%, margin gap — expected); (c) continue standardizing book trails toward 10% GTC (currently 3-5%). Highest-value actions today.
+2. **Japan add — FLJP (hold 11sh) or EWJ** — Grantham-eligible (non-US equity). Catalyst: **Japan = clearest intl flow-momentum leader** this week. Entry on a dip that holds post-midterm; stop -8%, target +12%, R:R ~1.5:1. **BUT** Asian tech weak overnight, yen at 157.8, adding into VIX-21.6 risk-off = poor timing. **Conditional / watch — not today.**
+3. **Copper miners COPX** — Grantham-eligible (metals/commodities). Catalyst: constructive flow momentum, China smelter maintenance (~80kt refined cut), testing 2026 downtrend breakout (target ~$102-111). **BUT** needs **confirmed breakout** above downtrend; copper slipped to $6.45 (-1.4%) on tech-equity weakness + weak yuan. **Conditional on breakout confirmation — not today.**
+   *(GLDM re-entry on watch: gold rebounding off 1-yr low but yields ~5% + silver -19% MTD keep the metals sleeve soft.)*
+
+### Risk Factors
+- **Midterm elections = binary event risk**; adding risk into it + **VIX 21.6** is low-edge.
+- **AMD earnings after close** (AI sentiment spillover to global semis/EM); AAPL margin concerns already weighing tech premarket.
+- **Oil 2-way** (Qeshm-strike escalation vs Qatar de-escalation talks); energy premium can gap either way.
+- **Yields structurally ~5%** (10yr 4.92%, TIPS real 2.59%) pressure TIPS/gold duration.
+- **Metals soft:** gold off a 1-yr low but fragile, silver near lows (-19% MTD), copper -1.4% on weak yuan/tech.
+- **Asia/China weakness** (yuan largest drop since May, Korea tech pressure) = EM/industrial-metals headwind.
+- **Governance mismatch unresolved** (flagged since Oct 21): book is majority non-Grantham (US stocks/ETFs); scheduled prompt frames account as "free-form ~$55k, never options" while CLAUDE.md says Grantham-only and live equity is ~$79k. Underdeployed (27.4% vs 75-85%), trails non-standard (3-5% vs 10% GTC), 2 unstopped remnants. **Human review pending.** Also: `scripts/memory.sh` (referenced by this routine for archive/read) still does not exist — logs read directly as fallback.
+
+### Decision
+**HOLD on new entries.** No clean edge: a binary midterm vote + **VIX 21.6** + AMD earnings tonight make new risk low-edge, and the two best Grantham-eligible setups (Japan flow momentum, copper-miner breakout) both need confirmation to hold post-midterm. The one-day-stale dollar softness isn't enough alone; metals are soft (silver near lows, yields ~5%). Actionable priority is defensive and belongs to execution routines: close QQQM/SPMO remnants, let AAPL stop execute at open, standardize trails toward 10% GTC. Watch **FLJP/EWJ (Japan)** and **COPX (copper breakout)** as top Grantham-eligible setups for later in the week. Patience > activity.
