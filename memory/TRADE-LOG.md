@@ -264,3 +264,24 @@ No positions yet. Bot launches tomorrow.
 ## 2026-11-04 — Midday Actions
 - SPMO 0.008 sh (fractional remnant): closed at market ~$131.95 (entry $143.30), realized ~-$0.09 (-7.9%) — cut at -7% per rule.
 - No other position <= -7% or >= +15%; no stop changes. All stopped positions still carry GTC trailing stops. QQQM remnant (-4.2%) and AAPL remnant (+2.8%) remain unstopped fractional.
+
+## 2026-11-04 — EOD Snapshot (Day N/A, Wednesday)
+**Portfolio:** $79,324.32 | **Cash:** $59,176.63 (74.6%) | **Day P&L:** +$487.76 (+0.62%) | **Phase P&L:** -$675.68 (-0.84%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| AAPL | 0.0089 | $344.27 | $349.80 | +5.39% | +0.05 (+1.61%) | none (fractional remnant) |
+| BRK.B | 13 | $541.97 | $579.12 | +3.96% | +482.95 (+6.86%) | $563.23 |
+| COWZ | 1 | $70.81 | $71.66 | +1.23% | +0.85 (+1.20%) | $69.00 |
+| EWG | 5 | $41.72 | $43.50 | +3.42% | +8.90 (+4.27%) | $41.77 |
+| FLJP | 11 | $40.73 | $40.00 | +1.22% | -8.03 (-1.79%) | $38.93 |
+| QQQM | 0.5 | $298.95 | $284.93 | +0.96% | -7.01 (-4.69%) | none (fractional remnant) |
+| SCHD | 97.1816 | $34.62 | $36.18 | +1.76% | +151.16 (+4.49%) | $34.76 |
+| SGOV | 10 | $100.62 | $100.45 | +0.01% | -1.70 (-0.17%) | $96.71 |
+| VGK | 12.2667 | $87.55 | $90.24 | +3.08% | +33.00 (+3.07%) | $86.30 |
+| VNQI | 1 | $42.69 | $44.15 | +2.82% | +1.46 (+3.42%) | $42.17 |
+| VOO | 2.1264 | $710.69 | $705.39 | +1.71% | -11.27 (-0.75%) | $677.43 |
+| VTI | 3 | $379.19 | $377.19 | +1.61% | -6.00 (-0.53%) | $364.48 |
+| VTV | 13 | $224.72 | $230.98 | +1.50% | +81.37 (+2.79%) | $220.67 |
+| XLB | 5 | $51.27 | $53.90 | +2.49% | +13.15 (+5.13%) | $51.87 |
+| XLI | 1 | $167.99 | $169.46 | -1.09% | +1.47 (+0.88%) | $163.78 |
+**Notes:** Strong up day (+$488), broad rally. No buys; only action was midday close of SPMO fractional remnant (~-7.9%). 15 positions; all but AAPL/QQQM remnants carry GTC trailing stops (3-5%). Cash 74.6%. Day P&L computed vs prior logged EOD ($78,836.56); Phase P&L vs $80k account start. Universe still non-compliant with CLAUDE.md — human review pending.
