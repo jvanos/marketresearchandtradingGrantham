@@ -260,3 +260,7 @@ No positions yet. Bot launches tomorrow.
 | XLB | 5 | $51.27 | $52.59 | -2.01% | +6.60 (+2.58%) | $51.87 |
 | XLI | 1 | $167.99 | $171.32 | +0.95% | +3.33 (+1.98%) | $163.78 |
 **Notes:** Small down day (-$109). No buys. AAPL 6 sh stopped out 14:33 UTC @ $327.11 (~-5% vs entry); 0.0089 sh remnant left unstopped. 16 positions; all but AAPL/QQQM/SPMO remnants carry GTC trailing stops (stops are 3-5%, not the 10% rulebook default). Cash 75.1%. Phase P&L vs $80k account start. Universe still non-compliant with CLAUDE.md (US stocks/ETFs held) — human review pending. scripts/memory.sh absent; read TRADE-LOG tail directly.
+
+## 2026-11-04 — Midday Actions
+- SPMO 0.008 sh (fractional remnant): closed at market ~$131.95 (entry $143.30), realized ~-$0.09 (-7.9%) — cut at -7% per rule.
+- No other position <= -7% or >= +15%; no stop changes. All stopped positions still carry GTC trailing stops. QQQM remnant (-4.2%) and AAPL remnant (+2.8%) remain unstopped fractional.
