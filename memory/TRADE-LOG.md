@@ -285,3 +285,8 @@ No positions yet. Bot launches tomorrow.
 | XLB | 5 | $51.27 | $53.90 | +2.49% | +13.15 (+5.13%) | $51.87 |
 | XLI | 1 | $167.99 | $169.46 | -1.09% | +1.47 (+0.88%) | $163.78 |
 **Notes:** Strong up day (+$488), broad rally. No buys; only action was midday close of SPMO fractional remnant (~-7.9%). 15 positions; all but AAPL/QQQM remnants carry GTC trailing stops (3-5%). Cash 74.6%. Day P&L computed vs prior logged EOD ($78,836.56); Phase P&L vs $80k account start. Universe still non-compliant with CLAUDE.md — human review pending.
+
+## 2026-11-05 — Midday Actions
+- QQQM 0.5 sh (fractional remnant): market close submitted ~$269.10 (entry $298.95), ~-$14.9 (-10.0%) — cut at -7% per rule.
+- No winners >= +15%; no stop changes. All full positions (BRK.B, COWZ, EWG, GLDM 7%, SCHD, SGOV, VGK, VNQI, VTV) carry GTC trailing stops. AAPL (+0.06%) and VOO 0.1264 sh (-4.5%) remnants unstopped (fractional).
+- Note: GLDM 48 sh new today with 7% trail; VOO/FLJP/VTI/XLB/XLI no longer held vs 11-04 EOD.
