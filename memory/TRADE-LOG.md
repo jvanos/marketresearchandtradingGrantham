@@ -290,3 +290,20 @@ No positions yet. Bot launches tomorrow.
 - QQQM 0.5 sh (fractional remnant): market close submitted ~$269.10 (entry $298.95), ~-$14.9 (-10.0%) — cut at -7% per rule.
 - No winners >= +15%; no stop changes. All full positions (BRK.B, COWZ, EWG, GLDM 7%, SCHD, SGOV, VGK, VNQI, VTV) carry GTC trailing stops. AAPL (+0.06%) and VOO 0.1264 sh (-4.5%) remnants unstopped (fractional).
 - Note: GLDM 48 sh new today with 7% trail; VOO/FLJP/VTI/XLB/XLI no longer held vs 11-04 EOD.
+
+## 2026-11-05 — EOD Snapshot (Day N/A, Thursday)
+**Portfolio:** $78,845.76 | **Cash:** $58,690.23 (74.4%) | **Day P&L:** -$479.40 (-0.60%) | **Phase P&L:** -$1,154.24 (-1.44%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| AAPL | 0.0089 | $344.27 | $344.10 | -1.55% | -0.00 (-0.05%) | none (fractional remnant) |
+| BRK.B | 13 | $541.97 | $571.00 | -1.40% | +377.39 (+5.36%) | $568.71 |
+| COWZ | 1 | $70.81 | $69.83 | -2.55% | -0.98 (-1.38%) | $69.10 |
+| EWG | 5 | $41.72 | $42.75 | -1.72% | +5.15 (+2.47%) | $41.77 |
+| GLDM | 48 | $81.73 | $80.79 | +0.51% | -45.12 (-1.15%) | $76.02 |
+| SCHD | 97.1816 | $34.62 | $35.39 | -2.27% | +74.82 (+2.22%) | $34.92 |
+| SGOV | 10 | $100.62 | $100.46 | +0.00% | -1.65 (-0.16%) | $96.71 |
+| VGK | 12.2667 | $87.55 | $88.42 | -2.02% | +10.67 (+0.99%) | $86.30 |
+| VNQI | 1 | $42.69 | $44.00 | -0.34% | +1.31 (+3.07%) | $42.67 |
+| VOO | 0.1264 | $710.69 | $673.30 | -4.47% | -4.73 (-5.26%) | none (fractional remnant) |
+| VTV | 13 | $224.72 | $223.88 | -3.07% | -10.93 (-0.37%) | $221.55 |
+**Notes:** Down day (-$479), broad selloff. Trades: BUY GLDM 48 @ $81.73 (7% trail); SELL QQQM 0.5 @ ~$268.93 (-10% remnant cut). 2 trades today. Trailing stops now tight on several names (VNQI, EWG, BRK.B within ~0.5-1% of price) — gap risk. 11 positions, cash 74.4%. Day P&L vs Alpaca last_equity ($79,325.16); Phase P&L vs $80k account start. scripts/memory.sh missing from repo (read log directly). Universe still non-compliant with CLAUDE.md — human review pending.
