@@ -206,3 +206,72 @@ Cash $57,145.97 (72.5%); 17 positions.
 
 ### Overall Grade: D+
 (-0.55% ≈ S&P, but 0 winners, large gap losses, 27.5% deployed, no buys.)
+
+## Week ending 2026-11-06
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $78,795.84 (old acct PA3Q1U9Y8, Oct 30 close; Monday AM baseline) |
+| Ending portfolio | $55,018.75 (NEW acct PA358Z3OS — not comparable) |
+| Week return | Old book Mon–Thu: +$49.92 (+0.06%) to $78,845.76 (Nov 5 close). Fri: acct swapped, no continuity. Headline $ change (-$23.8k) is an account artifact, NOT a loss |
+| S&P 500 week | -2.68% (7,376.86; 4th straight weekly loss; Thu -4.4%) |
+| Bot vs S&P | ~+2.7% (old book, ex-swap; mostly cash 72-75% + stops) |
+| Trades | 2 by bot (W:0 / L:1 / open:1) — SPMO remnant cut Nov 4 (-7.9%), QQQM remnant cut Nov 5 (-10%), BUY GLDM 48 @ $81.73 Nov 5; AAPL 6sh stop-out Nov 3 (~-5%), XLE 1sh stop Nov 2 (~-1.3%) |
+| Win rate | 0% closed (0/4; tiny losses) |
+| Best trade | n/a — best open (new acct): WULF +2.07% |
+| Worst trade | QQQM remnant -10.0% (~-$15) |
+| Profit factor | 0.00 (no winners closed) |
+| Phase P&L | old: -$1,154 (-1.44% vs $80k); new acct +$18.75 (+0.03% vs ~$55k assumed) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|---|---|---|---|---|
+| XLE 1 | $68.21 | $67.35 | ~-$0.86 (-1.3%) | Nov 2 trail stop |
+| AAPL 6 | $344.27 | $327.11 | ~-$103 (-5%) | Nov 3 trail stop |
+| SPMO 0.008 | $143.30 | ~$131.95 | -$0.09 (-7.9%) | Nov 4 manual -7% cut |
+| QQQM 0.5 | $298.95 | ~$269.10 | ~-$14.9 (-10%) | Nov 5 manual cut |
+
+### Open Positions at Week End (NEW acct PA358Z3OS, 26 positions, ZERO stops/open orders)
+| Ticker | Entry | Close | Unrealized | Stop |
+|---|---|---|---|---|
+| BRK.B 20 | $574.84 | $570.58 | -$85.29 (-0.74%) | none |
+| GLDM 110 | $80.42 | $80.46 | +$4.40 (+0.05%) | none |
+| SCHD 97 | $35.27 | $35.20 | -$6.79 (-0.20%) | none |
+| VTV 13 | $223.66 | $223.15 | -$6.63 (-0.23%) | none |
+| AAPL 6 / AMZN 5 / GOOGL 2 | various | — | -$12.54 / -$10.00 / -$1.71 | none |
+| XLP 15 / XLV 8 / XLE 10 / XLB 5 / XLI 1 | various | — | -$5.70 / -$2.40 / -$2.20 / -$1.40 / -$0.07 | none |
+| VOO 2 / VTI 3 / SGOV 20 / BTC 40.06 / SIVR 15 | various | — | -$3.68 / -$2.19 / $0 / +$4.01 / -$0.02 | none |
+| WULF 9.86 / WQTM 10 / SMH 1 | various | — | +$2.27 / +$1.40 / +$1.18 | none |
+| VGK 9 / EWG 5.02 / FLJP 10.94 / VNQI 1 / REZ 1 / COWZ 1.03 / SPMO 5 / SCHG 3 / VGT 4 | various | — | ~-$0.65 to +$0.08 each | none |
+Cash $10,516.55 (19.1%); deployed 80.9%.
+
+### What Worked
+- Mostly-cash book (72-75%) + GTC trails sidestepped Thu's -4.4% S&P rout: old book flat (+0.06%) vs S&P -2.68%.
+- -7% manual cuts on remnants executed promptly (SPMO, QQQM).
+- GLDM add Nov 5 (gold safe-haven bid, ETF inflows) held flat through the rout.
+- Daily logging stayed consistent despite missing scripts/memory.sh.
+
+### What Didn't Work
+- Underdeployed (72-75%) vs 75-85% target; no new Grantham-compliant entries Mon–Wed.
+- Stops were 3-5% (not 10% rulebook) → AAPL/XLE stop-outs, whipsaw risk.
+- Fractional remnants left unstopped (QQQM/SPMO/AAPL/VOO) until cut.
+- **Account swap Nov 6:** new acct PA358Z3OS (~$55k, created 19:05Z) holds 26 mostly non-Grantham US names (AAPL, AMZN, BRK.B, SCHD, VOO…) with NO stops; prior $80k book gone. Not placed by this bot.
+- scripts/memory.sh still absent (archive/read fallback unavailable; no memory/archive dir).
+
+### Key Lessons
+- Cash is the best hedge in a regime shock; don't rush to deploy into VIX ~27-28.
+- Performance comparison breaks when the account changes — baseline must be re-anchored explicitly.
+- Unstopped inherited positions are the biggest live risk (gap through Mon open with zero downside protection).
+
+### Adjustments for Next Week
+- HUMAN FIRST: confirm intended account/keys and universe (Grantham-only per CLAUDE.md vs free-form per prompt).
+- If new account is intended: place 10% GTC trails on all full positions (fractional remnants: cut or hold per rule); re-anchor baseline to $55,018.75.
+- Deploy remaining cash only into compliant ideas (VEA/EWJ/IEUR intl developed, gold, TIPS) after the rout stabilizes.
+- Restore/provide scripts/memory.sh or update routine to read logs directly.
+
+### Proposed Strategy Changes
+- None to rules. Proposal for human: reconcile CLAUDE.md/TRADING-STRATEGY.md (Grantham-only) with the scheduled prompt (any liquid US stock/ETF). Governance mismatch flagged since Oct 21, still unresolved.
+
+### Overall Grade: C
+(Capital preserved vs -2.68% S&P, but 0% win rate, stops off-spec, account integrity unresolved.)
