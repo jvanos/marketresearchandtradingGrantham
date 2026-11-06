@@ -307,3 +307,38 @@ No positions yet. Bot launches tomorrow.
 | VOO | 0.1264 | $710.69 | $673.30 | -4.47% | -4.73 (-5.26%) | none (fractional remnant) |
 | VTV | 13 | $224.72 | $223.88 | -3.07% | -10.93 (-0.37%) | $221.55 |
 **Notes:** Down day (-$479), broad selloff. Trades: BUY GLDM 48 @ $81.73 (7% trail); SELL QQQM 0.5 @ ~$268.93 (-10% remnant cut). 2 trades today. Trailing stops now tight on several names (VNQI, EWG, BRK.B within ~0.5-1% of price) — gap risk. 11 positions, cash 74.4%. Day P&L vs Alpaca last_equity ($79,325.16); Phase P&L vs $80k account start. scripts/memory.sh missing from repo (read log directly). Universe still non-compliant with CLAUDE.md — human review pending.
+
+## 2026-11-06 — EOD Snapshot (Day N/A, Friday)
+**Portfolio:** $55,015.60 | **Cash:** $10,516.55 (19.1%) | **Day P&L:** -$133.40 (-0.24%) | **Phase P&L:** +$15.60 (+0.03%)
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| AAPL | 6 | $344.29 | $342.37 | -0.52% | -11.52 (-0.56%) | none |
+| AMZN | 5 | $261.80 | $259.69 | -0.20% | -10.55 (-0.81%) | none |
+| BRK.B | 20 | $574.84 | $570.88 | -0.25% | -79.20 (-0.69%) | none |
+| BTC | 40.06 | $33.44 | $33.50 | -0.39% | +2.40 (+0.18%) | none |
+| COWZ | 1.03 | $69.69 | $69.45 | -0.54% | -0.25 (-0.34%) | none |
+| EWG | 5.02 | $41.67 | $41.58 | -2.74% | -0.45 (-0.22%) | none |
+| FLJP | 10.936 | $37.77 | $37.71 | -0.24% | -0.66 (-0.16%) | none |
+| GLDM | 110 | $80.42 | $80.41 | -0.80% | -1.10 (-0.01%) | none |
+| GOOGL | 2 | $286.00 | $285.32 | +0.97% | -1.37 (-0.24%) | none |
+| REZ | 1 | $94.98 | $94.87 | -0.38% | -0.11 (-0.12%) | none |
+| SCHD | 97 | $35.27 | $35.18 | -0.67% | -8.61 (-0.25%) | none |
+| SCHG | 3 | $33.24 | $33.20 | +1.18% | -0.13 (-0.13%) | none |
+| SGOV | 20 | $100.49 | $100.49 | +0.04% | +0.00 (+0.00%) | none |
+| SIVR | 15 | $49.31 | $49.33 | -0.10% | +0.28 (+0.04%) | none |
+| SMH | 1 | $464.33 | $464.35 | +3.71% | +0.02 (+0.00%) | none |
+| SPMO | 5 | $124.76 | $124.41 | +1.60% | -1.75 (-0.28%) | none |
+| VGK | 9 | $87.31 | $87.33 | -1.23% | +0.18 (+0.02%) | none |
+| VGT | 4 | $108.94 | $108.73 | +1.56% | -0.84 (-0.19%) | none |
+| VNQI | 1 | $43.45 | $43.53 | -1.07% | +0.08 (+0.18%) | none |
+| VOO | 2 | $678.45 | $676.69 | +0.40% | -3.52 (-0.26%) | none |
+| VTI | 3 | $363.13 | $361.93 | +0.39% | -3.60 (-0.33%) | none |
+| VTV | 13 | $223.66 | $223.01 | -0.39% | -8.45 (-0.29%) | none |
+| WQTM | 10 | $25.30 | $25.15 | +6.30% | -1.50 (-0.59%) | none |
+| WULF | 9.86 | $11.13 | $11.36 | +12.70% | +2.27 (+2.07%) | none |
+| XLB | 5 | $52.13 | $51.95 | -0.73% | -0.90 (-0.34%) | none |
+| XLE | 10 | $61.93 | $61.66 | +0.05% | -2.70 (-0.44%) | none |
+| XLI | 1 | $163.02 | $162.90 | +0.27% | -0.12 (-0.07%) | none |
+| XLP | 15 | $90.19 | $90.08 | -1.28% | -1.65 (-0.12%) | none |
+| XLV | 8 | $184.77 | $184.80 | -0.06% | +0.24 (+0.02%) | none |
+**Notes:** **ACCOUNT ANOMALY (again):** Alpaca account PA358Z3OS created 2026-11-06 19:05Z with ~$55k start; prior $80k book (PA3Q1U9Y8) is gone. Now 26 positions (AAPL, AMZN, BRK.B, GOOGL, BTC mini-trust, WULF, SCHD/VTI/VOO etc., GLDM 110, SGOV) — mostly outside Grantham universe, **no open orders / no stops at all**. Not placed by this bot (no trade-log entries today). Cash 19.1% (deployed 80.9%). Day P&L vs Alpaca last_equity ($55,149); Phase P&L vs ~$55k assumed start. Human review needed: intended account/keys, universe, stops. scripts/memory.sh still missing.
