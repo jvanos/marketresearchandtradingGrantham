@@ -448,3 +448,42 @@ HOLD on new entries — do not add risk into FOMC/earnings week on thin R:R. The
 
 ### Decision
 **HOLD on new entries today (default).** The top Grantham-eligible setup — **gold (GLDM/IAU)** — now satisfies yesterday's condition (gold holding well above $4,000), with the cleanest momentum + macro tailwind (dollar weak, yields falling, CB demand) and the best fit for fixing both underdeployment (25.5%) and compliance. **But** gold is extended/near record after a sharp 2-day pop, Wed's broad rally is fading premarket, and jobless claims (8:30) + NFP (Fri) sit right ahead — chasing a gap-up into that is low-edge. If the market-open routine acts, the priority order is: (1) **housekeeping** — close the 2 unstopped remnants (QQQM 0.5sh -5.3%, AAPL 0.0089sh), continue standardizing trails toward 10% GTC; (2) **a SMALL gold starter (GLDM/IAU) only on an orderly hold >$4,050, not a chase**; (3) **Europe add (EWG/VGK) only on confirmed follow-through.** Watch **gold (GLDM/IAU)** #1, **Europe (EWG/VGK)** #2, silver (SLV) #3. Patience > activity.
+
+## 2026-11-06 — Pre-market Research (Friday — NFP day; AI/semi rout Thu sent VIX to 28, chips bounce premarket, dollar firms)
+
+### Account
+- Equity: $78,696.93 | Cash: $58,693.43 (74.6%) | Buying power: $58,693.43 (1x, no margin)
+- Position mkt value: $20,003.50 (**25.4% deployed — still far below 75-85% band; chronic underdeployment remains the single biggest performance drag**)
+- Overnight: equity **-$185.24 (-0.23%)** vs last_equity $78,882.17. Phase P&L vs $80k start **~-$1,303 (-1.63%)**.
+- 11 positions, **9 GTC trailing stops** (GLDM 7%, VTV/VNQI 4.5%, VGK 4.4%, SGOV/SCHD/EWG/COWZ 4%, BRK.B 3%). **2 fractional remnants carry NO stops: VOO 0.1264sh (-4.9%), AAPL 0.0089sh (-1.2%)** — cleanup owed (flagged since Oct 30). QQQM/SPMO remnants already closed. Trails still **non-standard 3-5%**, NOT the 10% GTC rule.
+
+### Market Context
+- **Thu 11/05 was a sharp AI/semiconductor rout:** Nasdaq **-5.5%**, S&P 500 **-4.4%**, Philly Semi (SOX) **-12.3%** on post-midterm AI-regulation / data-center-capex fears. **VIX spiked to 28.18 (+69.7%)**. Fri premarket: **chips rebound** (MU +9.4%, NVDA +3.6-4.9%), **VIX easing to ~26.8** (still elevated), S&P futures **~flat-to-+0.18%**. Airbnb +12% (raised outlook); Atlassian -15.6% (earnings).
+- **US Dollar Index (DXY): recovering to ~101.8-102.0 (+0.2-0.35%)** on safe-haven + pre-NFP positioning. EUR/USD <1.12 (-0.3%), GBP/USD ~1.34 (-0.3%), USD/JPY ~158, **AUD/NZD weakest** (copper/growth proxy). **Dollar strength = Grantham HEADWIND today** (reverses the week's soft-dollar tailwind).
+- **Oil REBOUNDING on Iran-Israel tanker attacks (Hormuz supply risk):** WTI **~$90-91**, Brent **~$98-100**. Reports: conflict disrupting **~1/5 of global LNG supply**; European nat gas toward €92/MWh. 2-way (de-escalation hopes vs renewed attacks).
+- **Gold ~$4,048-4,075, down ~1% today on dollar strength** (profit-taking), but **+5% on the week**; physically-backed gold ETFs logged **4 straight months of inflows ($2.7B in Oct, led by Europe/Asia)**. **Silver ~$52** (high-beta, volatile). **Copper at a 3-month low (~$6.25/lb, ~$13,674/t)** on AI-capex/global-growth fear.
+- **Yields fell on the week (duration bullish):** US 10yr **~4.83-4.85% (-9bp wk, <5% 2nd wk)**, 2yr **~4.47% (-13bp wk)**, 30yr ~5.31%, 2s10s +36bp (steeper). **10yr TIPS real ~2.61%** (still restrictive), breakeven ~2.31%. Bunds followed US lower (synchronized safe-haven).
+- **Catalysts today:** **8:30 ET October NFP** (cons **~65k** vs 29k prior; u-rate ~4.2%, wages) = the week's dominant print; **10:00 ET prelim U-Mich sentiment**. No CPI (Nov 10), no FOMC (Dec 8-9). Earnings BMO mostly US (ENB, BAM, MRNA, HUM, VST) — limited non-US read.
+- **Momentum / flows:** Leadership rotated to **energy + defensives (staples)**; **tech was the Oct laggard (-6.8%)**. **Developed ex-US outperforms S&P YTD (13.52% vs 11.77%)**; EM weak (-5.3% Oct). Cleanest intl-equity inflows: **VEA +$381M, IXUS +$322M, EWJ +$221M (Japan leads), IEUR +$97M**. Gold: **GLD +$361M** (flows volatile day-to-day). Avoid: copper (3-mo low), broad commodities consolidating.
+
+### Positions / Risk Status
+- **No holding past the -7% cut line.** Worst full position: GLDM -1.65%. Remnants tiny (VOO -4.9%, AAPL -1.2%).
+- **No winner >= +15%** — no trail-tighten due. Best: BRK.B +4.1%, VNQI +2.7%, SCHD +1.2%, VGK +1.0%, EWG +0.6%.
+- Grantham-compliant sleeve: **GLDM** (gold, -1.65%), **VGK** (Europe, +1.0%), **EWG** (Germany, +0.6%), **VNQI** (intl RE, +2.7%). FLJP no longer held. Rest = inherited non-Grantham US stocks/ETFs (BRK.B, VTV, SCHD, COWZ, SGOV, + VOO/AAPL remnants).
+
+### Trade Ideas
+1. **International developed equity — VEA / IEUR / EWJ (or add VGK/EWG held)** — Grantham-eligible (non-US equity). Catalyst: **developed ex-US beating S&P YTD + cleanest intl inflows this week (VEA $381M, EWJ $221M); Japan the regional flow leader.** Best fit for underdeployment AND compliance. Entry: starter **only on a post-NFP hold** that confirms global risk-off from Thu's rout is stabilizing; stop -8%, target +10%, R:R ~1.3:1. **Conditional — dollar firming + VIX 27 + pre-NFP = wait for confirmation, not today pre-print.**
+2. **Gold — add GLDM (hold 48sh) / GLD** — Grantham-eligible (gold). Catalyst: **+5% on the week, 4 straight months of ETF inflows ($2.7B Oct), safe-haven bid intact.** BUT **pulling back ~1% today on dollar strength**, extended near record, and **real yields 2.61% remain restrictive**. Entry: add only on an orderly hold >$4,000 after NFP; stop -8%, target +10%. **Conditional / already have core exposure — don't chase a pullback into a firm dollar.**
+3. **Avoid this session:** copper/industrial metals (3-mo low, AI-capex fear), silver (high-beta into VIX 27), broad commodities (consolidating). Oil is 2-way on Iran-Israel — not a clean momentum long.
+
+### Risk Factors
+- **NFP 8:30 ET = binary macro catalyst** into **VIX ~27** (just off a +70% spike) — adding risk pre-print is low-edge.
+- **Dollar firming (~102)** reverses the week's Grantham tailwind — pressures non-US equities + gold today.
+- **Gold extended / pulling back** on dollar strength; real yields 2.61% cap the duration trade.
+- **AI-regulation overhang** from the Democratic midterm sweep drove Thu's rout; chip bounce may be a dead-cat — global risk sentiment fragile.
+- **Oil 2-way** (Iran-Israel tanker attacks / Hormuz vs de-escalation) — energy premium can gap either way; LNG disruption a wildcard for European gas/inflation.
+- **Copper 3-mo low + EM weakness + AUD/NZD soft** = global-growth caution, headwind for industrial-metals/EM sleeve.
+- **Governance mismatch unresolved** (flagged since Oct 21): book is majority non-Grantham (US stocks/ETFs); scheduled prompt frames account as "free-form ~$55k, never options" while CLAUDE.md says Grantham-only and live equity is ~$79k. Underdeployed (25.4% vs 75-85%), trails non-standard (3-5% vs 10% GTC), 2 unstopped remnants. **Human review pending.** Also: `scripts/memory.sh` (referenced by this routine for archive/read) **still does not exist** — logs read directly as fallback; no archive dir created.
+
+### Decision
+**HOLD on new entries today (default).** NFP at 8:30 + **VIX ~27** (just off a +70% one-day spike) + a **firming dollar** (reversing the Grantham tailwind) + gold **pulling back** on that dollar strength together make new risk low-edge pre-print. The top Grantham-eligible setup — **international developed equity (VEA/EWJ/Europe)** — has the cleanest flows and the best fix for both underdeployment (25.4%) and compliance, but global sentiment is fragile after Thu's AI rout and the dollar is working against it; wait for a **post-NFP hold** before sizing a starter. Gold is a hold, not an add into a firm dollar. If the market-open routine acts, priority is defensive/housekeeping: **close the 2 unstopped remnants (VOO 0.1264sh, AAPL 0.0089sh)**, continue standardizing trails toward 10% GTC. Watch **VEA/EWJ/IEUR (intl developed)** #1, **GLDM/GLD (gold)** #2 for post-NFP confirmation. Patience > activity.
